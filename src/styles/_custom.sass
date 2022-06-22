@@ -1,0 +1,305 @@
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 85%
+  &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 81%
+    right: 85%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 68%
+    right: 70%
+    @media (max-width: 992px)
+      height:  620px
+      top: 235px
+      margin-left: 10px
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 81%
+    right: 50%
+    @media (max-width: 1024px)
+      height:  620px
+      top: 295px
+      margin-left: 10px
+    @media (max-width: 992px)
+      height:  620px
+      top: 295px
+      margin-left: 10px
+
+  &-5
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 25%
+  &-6
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 15%
+  &-7
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 51%
+    right: 5%
+
+      
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: #000
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/images/header/interno.svg") !important
+  background-repeat: no-repeat 
+  
+.cs
+  overflow-y: hidden
+
+.titulo-principal__numero 
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative;
+  background-color: #FFD400
+
+.container-top
+  border-radius: 0px 0px 0 0
+  margin-top: -50px
+.container-bottom
+  border-radius: 0 0 0px 0px  
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero 
+  background-color: #FFD400
+
+.titulo-segundo::after 
+  content: ''
+  display: block
+  height: 3px
+  width: 140px
+  border-left: solid 50px
+    border-left-color: currentcolor
+  border-left-color: #FFB92E
+  background-color: #e8e8e8
+
+.aling
+  justify-content: center
+
+.color-custom
+	background-color: #D1CAFE
+	&::before
+		background-color: #4A2EFC
+
+.color-custom-1
+	background-color: #fff
+	&::before
+		background-color: #E8F8FF
+
+.color-custom-2
+  background-color: #F4F5F8 
+
+.color-custom-3
+	background-color: #BFF9EF
+	&::before
+		background-color: #00E7BF
+
+.color-custom-4 
+  background-color: #BFF9EF
+
+.color-custom-5
+	background-color: #FFF9D9
+	&::before
+		background-color: #FFF
+
+.color-custom-6
+  background-color: #F27B58 !important
+
+.color-custom-7
+	background-color: #FFF9D9
+	&::before
+		background-color: #BFF9EF
+
+.color-acento-contenido-1
+  border-color: #F27B58 !important
+
+.tarjeta--azul 
+  background-color: #C7F8FA
+
+.acordion
+  .tarjeta--azul
+    background-color: #E8E8E8
+    &.acordion__activo
+      background-color: #C7F8FA
+
+.tarjeta.color-primario * 
+  color: #000
+
+.boton.color-acento-contenido:active, .color-acento-contenido.boton--sm:active, .boton.color-acento-contenido:focus, .color-acento-contenido.boton--sm:focus, .boton.color-acento-contenido:hover, .color-acento-contenido.boton--sm:hover 
+  background-color: #FFD400
+
+.fondo
+  background-image: url('../assets/curso/images/tema1/back_1.svg')
+  background-size: cover
+  background-repeat: no-repeat
+
+.fblue-1
+  background-color: #C5EAFB!important
+.fblue-2
+  background-color: #B1C4D0!important
+
+
+.tabs-a__tab
+  background-color: #F6F6F6
+
+.back-tab
+  background-color: #FFFBEF 
+  border-radius: 20px 
+  border: 4px solid #FFF4CC !important 
+
+.tabs-a.color-acento-contenido .tabs-a__tab__selected 
+  color: #fff
+
+.jumbotron-1
+  background-color: #C7F8FA
+  border-radius: 20px 
+
+.jumbotron-2
+  background-color: #FFFFFF
+
+.jumbotron-3
+  background-color: #F8BFAE
+
+.jumbotron-4
+  background-color: #C5EAFB
+
+.jumbotron-5
+  background-color: #FFFF
+
+.bgr
+  background-color: #FFF0E1 !important
+  &_1
+    background-color: #C5EAFB !important
+    border-radius: 20px 
+  &_2
+    background-color: #F8BFAE
+    background-repeat: no-repeat
+    background-size: contain !important
+    border-radius: 20px 
+  &_3
+    background-color: #C5EAFB !important
+    border-radius: 20px 
+  &_4
+    background-color: #B1C4D0 !important
+    border-radius: 20px 
+.img120
+  max-width: 120px !important
+
+.text-end 
+  text-align: left !important
+
+.pasos-a.color-acento-contenido .pasos-a__circle div 
+  color: #FFF
+.m-left
+  left: 50% !important 
+
+.m-right
+  right: -40% !important
+
+.tarjeta-numerada.color-acento-contenido .tarjeta-numerada__numero div 
+  color: #FFF
+
+.modif
+  border-bottom: none
+  .tabs-c__content-item
+    background-color: #FDF0BF
+    border-radius: 20PX
+  .tabs-c__tab--active
+    background-color: #FFD400
+    border-radius: 10PX
+    padding-top: 2rem !important
+    padding-bottom: 2rem !important
+  .tabs-c__tab
+    border: 4px solid #FFD400
+    border-radius: 10px
+    margin: 10px
+    &::after
+      width: 0px
+  .tabs-c__header
+    font-size: 18px;
+    font-weight: 700;
+  &_1
+    .slyder-a__tipo-b
+      bottom: 20px
+    .slyder-a__tipo-b .slyder-a__btn--atrs
+      margin-left: 15px
+    .slyder-a__tipo-b .slyder-a__btn--sigt
+      margin-right: 15px
+  &_2
+    border-bottom: none
+    .tabs-c__content-item
+      background-color: #F1FAFE
+      border-radius: 20PX
+    .tabs-c__tab--active
+      background-color: #C5EAFB
+      border-radius: 10PX
+      padding-top: 2rem !important
+      padding-bottom: 2rem !important
+    .tabs-c__tab
+      border: 4px solid #C5EAFB
+      border-radius: 10px
+      margin: 2px
+      margin: 10px
+      &::after
+        width: 0px
+    .tabs-c__header
+      font-size: 18px;
+      font-weight: 700;
+  &_3
+    right: -29px !important
+    width: 70% !important
+    @media screen and (max-width: 420px)
+      right: 0 !important
+      width: 100% !important
+
+.color-custom-info
+  background-color: #FFF0A6
+  border: 4px solid #453AF2 !important
+
+.img-infografica.color-secundario .img-infografica__item__dot::before, .img-infografica.color-secundario .img-infografica__item__dot::after, .img-infografica.color-secundario .img-infografica-b__item__dot::before, .img-infografica.color-secundario .img-infografica-b__item__dot::after, .img-infografica-b.color-secundario .img-infografica__item__dot::before, .img-infografica-b.color-secundario .img-infografica__item__dot::after, .img-infografica-b.color-secundario .img-infografica-b__item__dot::before, .img-infografica-b.color-secundario .img-infografica-b__item__dot::after 
+  background-color: #F27B58
+
+.img-infografica.color-secundario .img-infografica__item__numero, .img-infografica-b.color-secundario .img-infografica__item__numero 
+  color: #fff
+
+.linea-tiempo-d.color-secundario.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__number
+      background-color: #DCDFEE
+      color: $color-sistema-texto
+    .linea-tiempo-d__item__content
+      background-color: #BFF9EF
+      color: #000
+
+.linea-tiempo-d__item__content__title:hover 
+  font-weight: 700
+  background-color: #BFF9EF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  font-weight: 700
+  background-color: #DCDFEE
+
+.linea-tiempo-d__item__content__title 
+  display: flex
+  align-items: center
+  height: 63px
+  cursor: pointer
