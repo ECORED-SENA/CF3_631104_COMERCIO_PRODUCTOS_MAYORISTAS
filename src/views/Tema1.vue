@@ -132,23 +132,23 @@
           .col-12.col-md-7.mb-3.mb-md-0
         .row.justify-content-center.align-items-star
           .col-12.col-md-4.mb-3.mb-md-0.p-5
-            p.mb-3.aling-2  Esta toma en cuenta características psicológicas de las personas agrupándolas por:
-            ul.lista-ul--color
-              li.mb-4
-                i.fas.fa-paper-plane.colr_2
-                | Valores.
-              li.mb-4
-                i.fas.fa-paper-plane.colr_2
-                | Personalidad.
-              li.mb-4
-                i.fas.fa-paper-plane.colr_2
-                | Estilo de vida.
-              li.mb-4
-                i.fas.fa-paper-plane.colr_2
-                | Clase social.
+            p.mb-3.aling-2.mt-3  Esta toma en cuenta características psicológicas de las personas agrupándolas por:
+              ul.lista-ul--color.mt-5
+                li.mb-4
+                  i.fas.fa-paper-plane.colr_2
+                  | Valores.
+                li.mb-4
+                  i.fas.fa-paper-plane.colr_2
+                  | Personalidad.
+                li.mb-4
+                  i.fas.fa-paper-plane.colr_2
+                  | Estilo de vida.
+                li.mb-4
+                  i.fas.fa-paper-plane.colr_2
+                  | Clase social.
           .col-12.col-md-2.mb-3.mb-md-0
             figure
-              img(src='@/assets/curso/images/tema1/llave_2.svg',  alt='', style="width:250px; display:block; margin:9rem 1rem;").mb-3
+              img(src='@/assets/curso/images/tema1/llave_2.svg',  alt='', style="width:250px; display:block; margin:11rem 1rem;").mb-3
           .col-12.col-md-6.mb-3.mb-md-0
             figure
               img.mt-5(src='@/assets/curso/images/tema1/img_6.png').mb-3
@@ -187,7 +187,7 @@
               img(src='@/assets/curso/images/tema1/img_8.png').mb-3
 
 
-    TabsC.color-acento-contenido(data-aos="zoom-in-down")
+    TabsC.color-acento-contenido.d-block.d-lg-none(data-aos="zoom-in-down")
       .py-3.py-md-4.color-custom-2(titulo="Segmentación geográfica")
         .row.justify-content-center.p-4
           .col-12.col-md-4.mb-3.mb-md-0
