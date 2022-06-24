@@ -40,10 +40,10 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-3.p-4.mb-4.p-3
           .row.justify-content-around.align-items-center
-            .col-lg-10
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p El área de zonificación suele ser desestimada por varias empresas porque no se aprecia el gran valor que aporta este a sus empresas, contar con la clasificación y estudio de zonas ayuda a las empresas de manera significativa, ya que trae múltiples beneficios para ellos y sus clientes. Estas empresas suelen crear grupos de clientes definidos que van ligados a los intereses de la empresa u organizaciones.
+                  p.mb-0 El área de zonificación suele ser desestimada por varias empresas porque no se aprecia el gran valor que aporta este a sus empresas, contar con la clasificación y estudio de zonas ayuda a las empresas de manera significativa, ya que trae múltiples beneficios para ellos y sus clientes. Estas empresas suelen crear grupos de clientes definidos que van ligados a los intereses de la empresa u organizaciones.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
@@ -58,10 +58,10 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-3.p-4.mb-4.p-3
           .row.justify-content-around.align-items-center
-            .col-lg-10
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Por lo anterior, las conclusiones de una zonificación y ruteo bien realizados, permiten crear una base de datos muy amplia la cual ayuda a la comercialización óptima de un producto para las empresas mayoristas, dando un mejor servicio a los clientes actuales y visibilizando los clientes potenciales.
+                  p.mb-0 Por lo anterior, las conclusiones de una zonificación y ruteo bien realizados, permiten crear una base de datos muy amplia la cual ayuda a la comercialización óptima de un producto para las empresas mayoristas, dando un mejor servicio a los clientes actuales y visibilizando los clientes potenciales.
 
 
     .row.justify-content-center.align-items-center
@@ -84,22 +84,24 @@
 
 
     .row.justify-content-evenly.align-items-center.p-5
-      .col-lg-5(data-aos="fade-left")
+      .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
         h3.my-5 Cliente Real
         LineaTiempoD.color-secundario.especial
           .row(titulo='Cliente real' numero='1')
-            .row.align-items-center
-              .col-lg-5
+            .row.justify-content-center.align-items-star
+              .col-12.col-lg-5.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/images/tema4/img_7.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small Un cliente satisfecho, siempre regresa.
               .col-lg-7
                 p.mb-3  Es aquel que tiene un alto grado de satisfacción, se define también por su volumen de compra, su influencia, su frecuencia y si este tiene vigencia, es decir si es activo o inactivo.
                 p.mb-0 Para mantener a un cliente real satisfecho es necesario conocer al cliente, pedir su opinión, orientación y dar solución a los problemas que este tenga. 
           .row(titulo='Cliente potencial' numero='2')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5 
                 figure
                   img(src='@/assets/curso/images/tema4/img_8.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small Compra por la calidad de los productos.
               .col-lg-7
                 p.mb-3  Es aquel que puede convertirse en un futuro cliente, influye según:
                 p - Su frecuencia de compra.
@@ -107,14 +109,15 @@
                 p - Su grado de influencia.
 
           .row(titulo='Número de visitas diarias' numero='3')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5
                 figure
                   img(src='@/assets/curso/images/tema4/img_9.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small El cliente regresa para ver novedades.
               .col-lg-7
                 p Es la cantidad de veces que un cliente visita un local. 
           .row(titulo='Frecuencia de visitas diarias' numero='4')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5 
                 figure
                   img(src='@/assets/curso/images/tema4/img_10.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
@@ -125,41 +128,45 @@
         img(src='@/assets/curso/images/tema4/img_5.svg' alt='', style="width:500px; display:block; margin:auto 0;")
 
     .row.justify-content-evenly.align-items-center.p-5
-      .col-lg-5(data-aos="fade-right")
-        img.mt-5(src='@/assets/curso/images/tema4/img_6.svg' alt='', style="width:500px; display:block; margin:auto 0;")
+      .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+        img.my-5(src='@/assets/curso/images/tema4/img_6.svg' alt='', style="width:500px; display:block; margin:auto 0;")
       .col-lg-5(data-aos="fade-left")
         LineaTiempoD.color-secundario.especial
           .row(titulo='Transporte' numero='5')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5 
                 figure
                   img(src='@/assets/curso/images/tema4/img_11.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small Transporte de carga y distribución, logística.
               .col-lg-7
                 p.mb-3  Es el sistema de movilidad de los productos a comercializar (cadenas de abastecimiento).
 
 
           .row(titulo='Demanda de los productos' numero='6')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5
                 figure
                   img(src='@/assets/curso/images/tema4/img_12.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small Según necesidades del cliente.
               .col-lg-7
                 p Es el número de productos que se venden a los clientes. 
 
           .row(titulo='Competencia de los productos' numero='7')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5 
                 figure
                   img(src='@/assets/curso/images/tema4/img_13.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small El cliente… elige.
               .col-lg-7
                 p.mb-3  Hace referencia a la cantidad de productos ofertados y vendidos por una empresa o una persona.
 
 
           .row(titulo='Capacidad de los vendedores' numero='8')
-            .row.align-items-center
+            .row.justify-content-center.align-items-star
               .col-lg-5 
                 figure
                   img(src='@/assets/curso/images/tema4/img_14.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+                  p.text-small El cliente regresa… el vendedor hace el cierre de la compra.
               .col-lg-7
                 p Es el carisma, el carácter que un empleado (vendedor) le ofrece a un cliente a la hora de una venta (servicio al cliente).
       
@@ -287,41 +294,89 @@
 
     p.mb-3 Eficiencia y eficacia, dos palabras que buscan las empresas, en especial las mayoristas para llegar a abarcar todo su sector y darse a conocer, es por ello que existe la necesidad de elaborar una ruta de venta estratégica, sus ventajas son las siguientes:
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-star.justify-content-center.mb-5
+      .col-lg-6(data-aos="fade-right") 
+        ul.lista-ul--color.mt-3
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Venta productiva.
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Reduce el tiempo perdido por visitas fuera de la programación.
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Reduce gastos en transporte en visitas no programadas.
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Da igualdad a los clientes en cuanto a la atención al cliente.
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Es más fácil la empleabilidad con características y habilidades en una zona determinada.
+        p Partiendo de las categorías antes mencionadas, se hace necesario identificar cuáles son las ventajas que tiene cada una de ellas cuando se diseña la zonificación como estrategia comercial.
       .col-lg-6(data-aos="fade-left") 
         img.mb-3(src='@/assets/curso/images/tema4/img_20.png')
+    p.mb-3 En el proceso de zonificación y plan de rutas, es necesario contar con herramientas que faciliten su construcción y desarrollo de estas estrategias, es por ello que a continuación se verán las herramientas de georreferenciación.
+
+    .row.align-items-center.mb-5
+      .col-lg-6(data-aos="zoom-in-down")
+        img.mt-3(src="@/assets/curso/images/tema4/ico_5.svg", style="width: 600px").m-auto
+
+    .row.align-items-star.justify-content-center.mb-5
+      .col-lg-6(data-aos="fade-left") 
+        img.mb-3(src='@/assets/curso/images/tema4/img_21.png')
       .col-lg-6(data-aos="fade-right") 
         p.mb-3 ArcGis Resources (s. f.), define la georreferenciación como “el uso de coordenadas de mapa para asignar una ubicación espacial a entidades cartográficas”. 
-        p.mb-0 La georreferenciación para las empresas mayoristas está relacionada con la manera como:
-          ul.lista-ul--color.mt-3
-            li.mb-4
-              i.fas.fa-paper-plane.colr_2
-              | Estas asocian la ubicación geográfica de sus clientes asignándoles 	coordenadas en mapas.
-            li.mb-4
-              i.fas.fa-paper-plane.colr_2
-              | Miden la zona espacial con respecto a su competencia. 
-            li.mb-4
-              i.fas.fa-paper-plane.colr_2
-              | Identifican qué tan complejo o fácil es su acceso y el transporte.
-            li.mb-4
-              i.fas.fa-paper-plane.colr_2
-              | Identifican qué tipo de zona es, es decir si es homogénea o no, como ejemplo: 	las calles, las ferreterías, etc., entre otros servicios.
-
+        p.mb-3 La georreferenciación para las empresas mayoristas está relacionada con la manera como:
+        ul.lista-ul--color.mt-3
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Estas asocian la ubicación geográfica de sus clientes asignándoles 	coordenadas en mapas.
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Miden la zona espacial con respecto a su competencia. 
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Identifican qué tan complejo o fácil es su acceso y el transporte.
+          li.mb-4
+            i.fas.fa-paper-plane.colr_2
+            | Identifican qué tipo de zona es, es decir si es homogénea o no, como ejemplo: 	las calles, las ferreterías, etc., entre otros servicios.
+      
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10    
         .jumbotron-1.p-4(data-aos="zoom-in-down")    
           .row.justify-content-center.align-items-center
             .col-lg-8
               p.text-center Ahora bien, este proceso puede ser realizado por un software especializado en el campo, como, por ejemplo:
-            .row.justify-content-center.align-items-stretch
-              .col-12.col-md-2.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema4/tj_1_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema4/tj_2.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema4/tj_3_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema4/tj_4_1.svg")
+            .row.justify-content-center.align-items-center
+              .col-6.col-lg-3.mb-4.mb-lg-0
+                .jumbotron-2.p-3.mb-3(data-aos="zoom-in-down")    
+                  .row.justify-content-center.align-items-center
+                    .col-6.col-lg-3.mb-4.mb-lg-0
+                      img(src="@/assets/curso/images/tema4/ico_fly.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+                    .col-lg-9
+                      p.mb-0  OpenLayers
+              .col-6.col-lg-3.mb-4.mb-lg-0
+                .jumbotron-2.p-3.mb-3(data-aos="zoom-in-down")    
+                  .row.justify-content-center.align-items-center
+                    .col-6.col-lg-3.mb-4.mb-lg-0
+                      img(src="@/assets/curso/images/tema4/ico_fly.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+                    .col-lg-9
+                      p.mb-0 Geocoder
+              .col-6.col-lg-3.mb-4.mb-lg-0
+                .jumbotron-2.p-3.mb-3(data-aos="zoom-in-down")    
+                  .row.justify-content-center.align-items-center
+                    .col-6.col-lg-3.mb-4.mb-lg-0
+                      img(src="@/assets/curso/images/tema4/ico_fly.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
+                    .col-lg-9
+                      p.mb-0 Geopy
+              .col-6.col-lg-3.mb-4.mb-lg-0
+                .jumbotron-2.p-3.mb-3(data-aos="zoom-in-down")    
+                  .row.justify-content-center.align-items-center
+                    .col-6.col-lg-3.mb-4.mb-lg-0
+                      img(src="@/assets/curso/images/tema4/ico_fly.svg",  alt='', style="width:120px; display:block; margin:auto 0 ;")
+                    .col-lg-9
+                      p.mb-0 GDAL
 
     p.mb-3 Estas son algunas herramientas gratuitas de georreferenciación que se pueden invocar desde Python, JavaScript, Kartograph, Excel y otros. 
 

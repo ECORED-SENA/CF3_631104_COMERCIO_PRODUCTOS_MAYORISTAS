@@ -10,16 +10,16 @@
     .row.align-items-center.justify-content-center.mb-3
       .col-lg-5(data-aos="fade-right") 
         .cajon-b.color-custom-1.p-3.my-3
-          p.mb-3 Para entender la segmentación de mercados, primero se debe hablar del concepto: mercado en el área comercial y marketing, viéndolo desde el punto de vista como la plaza a la cual las empresas y la economía se mueve en torno a los productos y servicios ofertados, de acuerdo a la demanda que se tiene de estos bajo la influencia de factores políticos, culturales y económicos, entre otros, que nacen a partir de las necesidades de los clientes, movidos por una sociedad globalizada y virtualizada. 
+          p.mb-3 Para entender la segmentación de mercados, primero se debe hablar del concepto: mercado en el área comercial y marketing, viéndolo desde el punto de vista como <b> la plaza </b> a la cual las empresas y la economía se mueve en torno a los productos y servicios ofertados, de acuerdo a la demanda que se tiene de estos bajo la influencia de factores políticos, culturales y económicos, entre otros, que nacen a partir de las necesidades de los clientes, movidos por una sociedad globalizada y virtualizada. 
 
       .col-lg-5(data-aos="fade-left") 
-        img(src='@/assets/curso/images/tema1/img_1.png'  alt='', style="width:400px; display:block; margin:auto 0 ;")
+        img(src='@/assets/curso/images/tema1/img_1.png')
 
     p.mb-3 Hoy en día no solo se habla de mercados físicos tradicionales, también se encuentran los mercados virtuales que cada vez toman más fuerza y cancha, estimando un crecimiento del 74% para el año 2025, además de que representará aproximadamente el 85% de las ventas totales en Colombia (Pastrán, 2021), lo cual es un reto para las empresas actuales, siendo este cada vez más exigente, donde las compañías que logran el éxito son las que se adaptan con más facilidad y rapidez frente a los cambios que el multiculturalismo y la globalización promueven. 
 
     .row.aling.my-5   
       .col-lg-10(data-aos="zoom-in-down")
-        .cajon.color-custom.p-4.mb-4.p-5
+        .cajon.color-custom.p-4.mb-4.p-2
           .row.justify-content-around.align-items-center
             .col-lg-2.col-sm-2
               img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;").mb-3
@@ -42,7 +42,7 @@
     Separador
 
     #t_1_1.titulo-segundo
-      .h4 1.1 Variables de mercado
+      .h2 1.1 Variables de mercado
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right") 
@@ -56,15 +56,15 @@
         img(src='@/assets/curso/images/tema1/img_3.png'  alt='', style="width:400px; display:block; margin:auto 0 ;")
 
 
-    TabsC.color-acento-contenido(data-aos="zoom-in-down")
+    TabsC.color-acento-contenido.d-none.d-lg-block(data-aos="zoom-in-down")
       .py-3.py-md-4.color-custom-2(titulo="Segmentación geográfica")
         .row.justify-content-center.p-4
           .col-12.col-md-4.mb-3.mb-md-0
-            h3 Segmentación geográfica
-            p.mb-3 Tiene que ver con la utilización de datos geográficos para segmentar el mercado. Variables como:
+            h5 Segmentación geográfica
           .col-12.col-md-6.mb-3.mb-md-0
-        .row.justify-content-center.justify-content-center.p-4
+        .row.justify-content-center.align-items-star.p-4
           .col-12.col-md-4.mb-3.mb-md-0
+            p.mb-3 Tiene que ver con la utilización de datos geográficos para segmentar el mercado. Variables como:
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-paper-plane.colr_2
@@ -89,12 +89,12 @@
 
       .py-3.py-md-4.color-custom-2(titulo="Segmentación demográfica")
         .row.justify-content-center
-          .col-12.col-md-5.mb-3.mb-md-0.p-4
-            h3 Segmentación demográfica
-            p.mb-3 Se toman en cuenta los datos básicos de las personas, tales como:
-          .col-12.col-md-6.mb-3.mb-md-0
-        .row.justify-content-center.justify-content-center
+          .col-12.col-md-6.mb-3.mb-md-0.p-3
+            h5.aling-1 Segmentación demográfica
+          .col-12.col-md-5.mb-3.mb-md-0
+        .row.justify-content-center.align-items-star
           .col-12.col-md-4.mb-3.mb-md-0.p-5
+            p.mb-3 Se toman en cuenta los datos básicos de las personas, tales como:
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-paper-plane.colr_2
@@ -119,20 +119,20 @@
                 | Niveles de ingresos.
           .col-12.col-md-2.mb-3.mb-md-0.p-4
             figure
-              img(src='@/assets/curso/images/tema1/llave.svg',  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
+              img(src='@/assets/curso/images/tema1/llave.svg',  alt='', style="width:200px; display:block; margin:6rem 1rem ;").mb-3
           .col-12.col-md-5.mb-3.mb-md-0
             figure
-              img(src='@/assets/curso/images/tema1/img_5.png').mb-3
+              img.mt-5(src='@/assets/curso/images/tema1/img_5.png').mb-3
 
      
       .py-3.py-md-4.color-custom-2(titulo="Segmentación psicográfica")
         .row.justify-content-center.p-4
-          .col-12.col-md-4.mb-3.mb-md-0
-            h3 Segmentación psicográfica
-            p.mb-3 Esta toma en cuenta características psicológicas de las personas agrupándolas por:
-          .col-12.col-md-6.mb-3.mb-md-0
-        .row.justify-content-center.justify-content-center.p-4
-          .col-12.col-md-2.mb-3.mb-md-0
+          .col-12.col-md-5.mb-3.mb-md-0
+            h5.aling-1 Segmentación psicográfica
+          .col-12.col-md-7.mb-3.mb-md-0
+        .row.justify-content-center.align-items-star
+          .col-12.col-md-4.mb-3.mb-md-0.p-5
+            p.mb-3.aling-2  Esta toma en cuenta características psicológicas de las personas agrupándolas por:
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-paper-plane.colr_2
@@ -148,30 +148,122 @@
                 | Clase social.
           .col-12.col-md-2.mb-3.mb-md-0
             figure
-              img(src='@/assets/curso/images/tema1/llave_2.svg',  alt='', style="width:250px; display:block; margin:auto 0 ;").mb-3
+              img(src='@/assets/curso/images/tema1/llave_2.svg',  alt='', style="width:250px; display:block; margin:9rem 1rem;").mb-3
           .col-12.col-md-6.mb-3.mb-md-0
             figure
-              img(src='@/assets/curso/images/tema1/img_6.png').mb-3
+              img.mt-5(src='@/assets/curso/images/tema1/img_6.png').mb-3
 
 
       .py-3.py-md-4.color-custom-2(titulo="Segmentación  conductual")
-        .row.justify-content-center.p-4
+        .row.justify-content-center.align-items-star.p-4
           .col-12.col-md-4.mb-3.mb-md-0
-            h3 Segmentación  conductual
+            h5.mb-3 Segmentación  conductual
             p.mb-0 Su interés se encuentra en hallar los patrones de consumo del mercado, factores que tienen que ver con la decisión de compra, facilitando la identificación de las necesidades de los consumidores.
           .col-12.col-md-6.mb-3.mb-md-0
             figure
-              img(src='@/assets/curso/images/tema1/img_7.png').mb-3
+              img.mt-5(src='@/assets/curso/images/tema1/img_7.png').mb-3
 
 
       .py-3.py-md-4.color-custom-2(titulo="Segmentación  por industria")
         .row.justify-content-center.p-4
           .col-12.col-md-4.mb-0.mb-md-0
-            h3 Segmentación  por industria
-            p.mb-3 Tiene que ver con segmentar las empresas por sectores industriales, como: 
+            h5 Segmentación  por industria
           .col-12.col-md-6.mb-0.mb-md-0
-        .row.justify-content-center.justify-content-center.p-4
+        .row.justify-content-center.align-items-star.p-4
           .col-12.col-md-4.mb-0.mb-md-0
+            p.mb-5 Tiene que ver con segmentar las empresas por sectores industriales, como: 
+            ul.lista-ul--color
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | El sector agropecuario.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | El sector industrial.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | El sector tecnológico, entre otros.
+          .col-12.col-md-6.mb-3.mb-md-0
+            figure
+              img(src='@/assets/curso/images/tema1/img_8.png').mb-3
+
+
+    TabsC.color-acento-contenido(data-aos="zoom-in-down")
+      .py-3.py-md-4.color-custom-2(titulo="Segmentación geográfica")
+        .row.justify-content-center.p-4
+          .col-12.col-md-4.mb-3.mb-md-0
+            h5 Segmentación geográfica
+          .col-12.col-md-6.mb-3.mb-md-0
+        .row.justify-content-center.align-items-star.p-4
+          .col-12.col-md-4.mb-3.mb-md-0
+            p.mb-3 Tiene que ver con la utilización de datos geográficos para segmentar el mercado. Variables como:
+            ul.lista-ul--color
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Región del mundo.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | País.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Estado civil.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Tamaño de la ciudad.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Clima, entre otros.
+            p.mb-0 Estas variables, por lo general, son usadas para el posicionamiento de marca en la región.
+          .col-12.col-md-6.mb-3.mb-md-0
+            figure
+              img(src='@/assets/curso/images/tema1/img_4.png').mb-3
+            
+
+      .py-3.py-md-4.color-custom-2(titulo="Segmentación demográfica")
+        .row.justify-content-center
+          .col-12.col-md-6.mb-3.mb-md-0.p-3
+            h5.aling-1 Segmentación demográfica
+        .row.justify-content-center.align-items-star
+          .col-12.col-md-4.mb-3.mb-md-0.p-5
+            p.mb-3.aling-2 Se toman en cuenta los datos básicos de las personas, tales como:
+            figure
+              img(src='@/assets/curso/images/tema1/list_1.svg')
+          .col-12.col-md-5.mb-3.mb-md-0
+            figure
+              img(src='@/assets/curso/images/tema1/img_5.png')
+
+     
+      .py-3.py-md-4.color-custom-2(titulo="Segmentación psicográfica")
+        .row.justify-content-center.p-4
+          .col-12.col-md-5.mb-3.mb-md-0
+            h5.aling-1 Segmentación psicográfica
+        .row.justify-content-center.align-items-star
+          .col-12.col-md-4.mb-3.mb-md-0.p-5
+            p.mb-3.aling-2  Esta toma en cuenta características psicológicas de las personas agrupándolas por:
+            figure
+              img(src='@/assets/curso/images/tema1/list_2.svg')
+          .col-12.col-md-6.mb-3.mb-md-0
+            figure
+              img(src='@/assets/curso/images/tema1/img_6.png')
+
+
+      .py-3.py-md-4.color-custom-2(titulo="Segmentación  conductual")
+        .row.justify-content-center.align-items-star.p-4
+          .col-12.col-md-4.mb-3.mb-md-0
+            h5.mb-3 Segmentación  conductual
+            p.mb-0 Su interés se encuentra en hallar los patrones de consumo del mercado, factores que tienen que ver con la decisión de compra, facilitando la identificación de las necesidades de los consumidores.
+          .col-12.col-md-6.mb-3.mb-md-0
+            figure
+              img.mt-5(src='@/assets/curso/images/tema1/img_7.png').mb-3
+
+
+      .py-3.py-md-4.color-custom-2(titulo="Segmentación  por industria")
+        .row.justify-content-center.p-4
+          .col-12.col-md-4.mb-0.mb-md-0
+            h5 Segmentación  por industria
+          .col-12.col-md-6.mb-0.mb-md-0
+        .row.justify-content-center.align-items-star.p-4
+          .col-12.col-md-4.mb-0.mb-md-0
+            p.mb-5 Tiene que ver con segmentar las empresas por sectores industriales, como: 
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-paper-plane.colr_2
@@ -189,7 +281,7 @@
     Separador
 
     #t_1_2.titulo-segundo
-      .h4 1.2 Criterios de segmentación de mercados
+      .h2 1.2 Criterios de segmentación de mercados
     
     p.mb-3 Cuando se habla de los criterios de segmentación de mercados, es necesario mencionar que no todos los enfoques utilizados para su realización, son viables o efectivos en cada área o sector de la economía, por ello es necesario tener criterios claros que brinden un norte seguro para tener un alto nivel de confiabilidad, además, de ser efectivos a la hora de aplicarlo. Estos criterios se pueden resumir en cinco: “identificable y mensurable, sustancial, accesible, sensible y viable y sostenible” (Ferrell y Hartline, 2018, p. 134). A continuación se describen cada uno:
 
@@ -198,35 +290,35 @@
       .row(titulo="Identificable y mensurable").p-4
         .col-md-6
           figure
-            img(src='@/assets/curso/images/tema1/img_9.png', alt='Texto que describa la imagen')
+            img.mb-3(src='@/assets/curso/images/tema1/img_9.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0.align-items-center
           p.mb-0 La segmentación debe ser fácilmente identificable y lograr medir características como: el tamaño del mercado objetivo y el poder de compra.
         
       .row(titulo="Sustancial").p-4
         .col-md-6
           figure
-            img(src='@/assets/curso/images/tema1/img_10.png', alt='Texto que describa la imagen')
+            img.mb-3(src='@/assets/curso/images/tema1/img_10.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0.align-items-center
           p.mb-0 El segmento al que se apunta debe tener la capacidad de responder de manera económica a las inversiones que se realicen en él, en cuanto a estrategias de marketing y demás costes, para su correcto funcionamiento y sostenimiento de las empresas en el sector apuntado.
         
       .row(titulo="Accesible").p-4
         .col-md-6
           figure
-            img(src='@/assets/curso/images/tema1/img_13.png', alt='Texto que describa la imagen')
+            img.mb-3(src='@/assets/curso/images/tema1/img_13.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0.align-items-center
           p.mb-0 Si se habla de accesibilidad, el segmento debe ser accesible en cuanto a comunicación, publicidad y distribución, si se dificulta uno de estos factores no sería viable para las empresas entrar en segmentos a los cuales ya se podría decir no pertenecen.
 
       .row(titulo="Sensible").p-4
         .col-md-6
           figure
-            img(src='@/assets/curso/images/tema1/img_11.png', alt='Texto que describa la imagen')
+            img.mb-3(src='@/assets/curso/images/tema1/img_11.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0.align-items-center
           p.mb-0 El segmento responderá a los esfuerzos realizados por la empresa dentro de su mercado,  a los cambios a través del tiempo y a la manera de hacerlo diferente en relación con los otros segmentos.
         
       .row(titulo="Viable y sostenible").p-4
         .col-md-6
           figure
-            img(src='@/assets/curso/images/tema1/img_12.png', alt='Texto que describa la imagen')
+            img.mb-3(src='@/assets/curso/images/tema1/img_12.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0.align-items-center
           p.mb-0 El segmento debe permitir a las empresas una correcta interacción entre ellas, debe ser sostenible y viable para realizar inversiones dentro de él, además de permitir el desarrollo y crecimiento de las empresas.
         
@@ -234,10 +326,10 @@
     p.mb-5 Para conocer más sobre la segmentación del mercado se invita a revisar la videoclase que, a continuación, se relaciona:
 
     .row.align-items-center.aling
-      .col-lg-10
+      .col-lg-12
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jYDNBsZ1UsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     .row.align-items-center.aling.my-3
       .col-lg-10(data-aos="zoom-in-down")
@@ -254,19 +346,19 @@
                     span Descargar
                     .row
                       .col-auto
-                        img.mx-3(src="@/assets/curso/images/tema1/Ico_download.svg",  alt='', style="width:20px; display:block; margin:auto 0 ;")
+                        img.mx-1(src="@/assets/curso/images/tema1/Ico_download.svg",  alt='', style="width:20px; display:block; margin:auto 0 ;")
 
 
     Separador
 
     #t_1_3.titulo-segundo
-      .h4 1.3 Sistema de monitoreo de mercados
+      .h2 1.3 Sistema de monitoreo de mercados
 
 
     .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5(data-aos="fade-left") 
-        img.mb-3(src='@/assets/curso/images/tema1/img_14.png'  alt='', style="width:400px; display:block; margin:auto 0 ;")
-      .col-lg-5(data-aos="fade-right") 
+      .col-lg-4(data-aos="fade-left") 
+        img.mb-3(src='@/assets/curso/images/tema1/img_14.png')
+      .col-lg-6(data-aos="fade-right") 
         p.mb-3 Para monitorear mercados, se requiere de un plan que debe constantemente realizar la empresa para permanecer a la vanguardia, sin dejar que su competencia le aventaje por mucho, por lo que debe:
           ul.lista-ul--color.mt-3
             li.mb-4
@@ -335,16 +427,17 @@
             p.mb-4.text-center Debe responder a las necesidades de la empresa y estar en constante retroalimentación con un foco claro, como lo es su mercado meta.
         .col-12.col-md-3.mb-3.mb-md-0
           div.bgr_4.p-5
-            .row.align-items-center.justify-content-center.mb-4      
-              img.img120(src="@/assets/curso/images/tema1/ico_3.png" alt='', style="width:200px; display:block; margin:auto 0 ;")
-            h3.text-center Integridad
-            p.mb-4.text-center Los datos deben ser soportados con fuentes verificables, consistentes en sus atributos, dado que nada puede estar sustentado bajo supuestos.
-        .col-12.col-md-3.mb-3.mb-md-0
-          div.bgr_3.p-5
             .row.align-items-center.justify-content-center.mb-4         
               img.img120(src="@/assets/curso/images/tema1/ico_4.png" alt='', style="width:200px; display:block; margin:auto 0 ;")
             h3.text-center Objetividad
             p.mb-5.text-center Los datos deben de responder a la primicia de ser claros, medibles y exactos, en un contexto claro del mercado al cual pertenecen las empresas.
+          
+        .col-12.col-md-3.mb-3.mb-md-0
+          div.bgr_3.p-5
+            .row.align-items-center.justify-content-center.mb-4      
+              img.img120(src="@/assets/curso/images/tema1/ico_3.png" alt='', style="width:200px; display:block; margin:auto 0 ;")
+            h3.text-center Integridad
+            p.mb-4.text-center Los datos deben ser soportados con fuentes verificables, consistentes en sus atributos, dado que nada puede estar sustentado bajo supuestos.
         .col-12.col-md-3.mb-3.mb-md-0
           div.bgr_4.p-5
             .row.align-items-center.justify-content-center.mb-4         

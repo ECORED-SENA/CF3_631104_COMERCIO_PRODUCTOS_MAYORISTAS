@@ -56,9 +56,6 @@
   100%
     transform: translateY(0px)
 
-.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
-  color: #000
-
 .banner-interno__fondo
   background-image: url("../assets/curso/images/header/interno.svg") !important
   background-repeat: no-repeat 
@@ -94,6 +91,13 @@
 
 .aling
   justify-content: center
+.aling-1
+  margin-left: 30px
+
+.aling-2
+  margin-left: 10px
+  margin-top: -70px
+
 
 .color-custom
 	background-color: #D1CAFE
@@ -167,7 +171,7 @@
   border: 4px solid #FFF4CC !important 
 
 .tabs-a.color-acento-contenido .tabs-a__tab__selected 
-  color: #fff
+  color: #fff !important
 
 .jumbotron-1
   background-color: #C7F8FA
@@ -191,7 +195,7 @@
     background-color: #C5EAFB !important
     border-radius: 20px 
   &_2
-    background-color: #F8BFAE
+    background-color: #B1C4D0
     background-repeat: no-repeat
     background-size: contain !important
     border-radius: 20px 
@@ -202,7 +206,7 @@
     background-color: #B1C4D0 !important
     border-radius: 20px 
 .img120
-  max-width: 120px !important
+  max-width: 150px !important
 
 .text-end 
   text-align: left !important
@@ -270,6 +274,14 @@
     @media screen and (max-width: 420px)
       right: 0 !important
       width: 100% !important
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  border-bottom-color: #4A2EFC!important;
+  span 
+    font-weight: 700
+  &::before
+    border-top-color: #4A2EFC
+.tabs-c__content-item
+  background-color: #EDEDF0
 
 .color-custom-info
   background-color: #FFF0A6
@@ -303,3 +315,10 @@
   align-items: center
   height: 63px
   cursor: pointer
+
+.boton.color-acento-contenido, .color-acento-contenido.boton--sm 
+  background-color: #FFD400
+
+.text-white *, .text-white span, .text-white i, .texto-blanco *, .texto-blanco span, .texto-blanco i 
+  color: #000 !important
+

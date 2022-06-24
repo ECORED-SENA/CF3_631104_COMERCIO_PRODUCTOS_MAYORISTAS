@@ -23,15 +23,15 @@
             .col-lg-8
               p.text-center Estas características se fundamentan principalmente en la capacidad que han tenido los altos directivos para tomar las decisiones correctas y gestionar adecuadamente los recursos con los que cuentan sus organizaciones, incluyendo:
             .row.justify-content-center.align-items-stretch
-              .col-12.col-md-3.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema3/ico_1_1_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-3.mb-3.mb-md-0
+                img(src="@/assets/curso/images/tema3/ico_1_1_2.svg")
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_2_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema3/ico_3_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
+                img(src="@/assets/curso/images/tema3/ico_3_1_2.svg")
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_4_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_5_1.svg")
     
     .row.align-items-center.justify-content-center.mb-5
@@ -51,28 +51,28 @@
             .col-lg-8
               p.text-center Teniendo en cuenta lo anterior, se hace necesario identificar de dónde proceden los datos y de qué tipo de fuente se originan, estos entonces proceden de:
             .row.justify-content-center.align-items-stretch.mb-3
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_6_1_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_7_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_8_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_9_1_1.svg")
-              .col-12.col-md-2.mb-3.mb-md-0
+              .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_10_1.svg")
-            .row.justify-content-center.align-items-stretch
-              .col-12.col-md-10.mb-3.mb-md-0
+            .row.justify-content-center.align-items-center
+              .col-8.col-md-10.mb-3.mb-md-0
                 .jumbotron-5.p-2(data-aos="zoom-in-down")    
                   .row.justify-content-center.align-items-center.p-2
-                    .col-md-2.mb-3.mb-md-0
+                    .col-md-1.mb-3.mb-md-0
                       img(src="@/assets/curso/images/tema3/ico.svg" alt='', style="width:40px")
-                    .col-md-10.mb-3.mb-md-0
-                      p Contabilidad, entre muchos otros y cada una de estas categorías encierra miles de datos.
+                    .col-md-11.mb-3.mb-md-0
+                      p.mb-0 Contabilidad, entre muchos otros y cada una de estas categorías encierra miles de datos.
                 
 
     .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5(data-aos="fade-right") 
+      .col-lg-6(data-aos="fade-right") 
         p.mb-3 El conjunto de estos datos y la relación entre ellos se constituyen información sumamente valiosa, es con base en esta información que se puede conocer el pasado, el presente y el futuro hacia el cual quiere conducirse la empresa.
 
         p.mb-3 Pero, no es solo el hecho de tener los datos lo que guía el curso de la organización, de nada sirven los datos si no se realiza un procesamiento que los convierta en información que pueda ser analizada efectivamente por los directivos de las empresas, y que, como se mencionaba al principio, los lleve a tomar las decisiones adecuadas en el momento oportuno, ya que para que las decisiones sean las correctas, es necesario que estén basadas en información exacta, precisa y útil.
@@ -80,13 +80,13 @@
         p.mb-3 Por ello, las herramientas de análisis y procesamiento de datos han ido evolucionando también, y en la actualidad se encuentran cada vez más de ellas que permiten no solo el procesamiento de datos y la obtención de información, sino que posibilitan también reducir la subjetividad de las decisiones además de tener una visión completa de la organización con el fin de que todos los datos recopilados no se queden en simples números o palabras, sino que sean de utilidad para la empresa.
 
 
-      .col-lg-5(data-aos="fade-left") 
-        img(src='@/assets/curso/images/tema3/img_3.png'  alt='', style="width:400px; display:block; margin:auto 0 ;")
+      .col-lg-4(data-aos="fade-left") 
+        img(src='@/assets/curso/images/tema3/img_3.png')
 
     .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5(data-aos="fade-left") 
+      .col-lg-6(data-aos="fade-left") 
         img.mb-3(src='@/assets/curso/images/tema3/img_4.png')
-      .col-lg-5(data-aos="fade-right") 
+      .col-lg-6(data-aos="fade-right") 
         p.mb-3 A nivel nacional se observa que las empresas tienen una gran necesidad de gestionar mejor su información; sin embargo, en este caso centraremos el documento en los comercios mayoristas por lo que se presentará información y conceptualización básica en esta área con el fin de entender:
 
         ul.lista-ul--color
@@ -110,10 +110,10 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-3.p-4.mb-4.p-3
           .row.justify-content-around.align-items-center
-            .col-lg-10
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Entrando en materia, el procesamiento de datos, consiste en un conjunto de operaciones que se ejecuta sobre cualquier tipo de datos para información relevante, confiable y precisa que permita una mejor toma de decisiones y que genere un aumento en la productividad y en las ganancias.
+                  p.mb-0 Entrando en materia, el procesamiento de datos, consiste en un conjunto de operaciones que se ejecuta sobre cualquier tipo de datos para información relevante, confiable y precisa que permita una mejor toma de decisiones y que genere un aumento en la productividad y en las ganancias.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
@@ -126,87 +126,89 @@
       .col-lg-6(data-aos="fade-left") 
         img(src='@/assets/curso/images/tema3/img_5.png')
 
-    PasosA.color-acento-contenido.my-5(tipo="n")
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Entrada
-          p Consiste en la recopilación de los datos y el ingreso de estos a la herramienta seleccionada para su procesamiento.
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema3/img_6.png', alt='Texto que describa la imagen')
+    .row.align-items-center.justify-content-center
+      .col-lg-10
+        PasosA.color-acento-contenido.my-5(tipo="n")
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Entrada
+              p Consiste en la recopilación de los datos y el ingreso de estos a la herramienta seleccionada para su procesamiento.
+            .col-md-4
+              figure
+                img(src='@/assets/curso/images/tema3/img_6.png', alt='Texto que describa la imagen')
 
 
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema3/img_7.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-4
+              figure
+                img.mb-3(src='@/assets/curso/images/tema3/img_7.png', alt='Texto que describa la imagen')
 
-        .col-md-7.mb-4.mb-md-0
-          h3 Proceso
-          p Es la ejecución de las operaciones por medio de las cuales los datos se convierten en información valiosa. Algunas de estas operaciones pueden ser: validación, clasificación, agrupación, cálculos y síntesis de datos, entre otros.
+            .col-md-7.mb-4.mb-md-0
+              h3 Proceso
+              p Es la ejecución de las operaciones por medio de las cuales los datos se convierten en información valiosa. Algunas de estas operaciones pueden ser: validación, clasificación, agrupación, cálculos y síntesis de datos, entre otros.
+              
+
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Validación
+              p Permite limitar las entradas de datos para asegurar que estos cumplan con determinadas especificaciones, como: límites de números en rangos específicos, limitar fechas y horas en un periodo de tiempo determinado, limitar el número de caracteres de un texto. Ejemplo: validar que los datos ingresados estén en un rango de 0 a 100.
+          
+            .col-md-4
+              figure
+                img(src='@/assets/curso/images/tema3/img_8.png', alt='Texto que describa la imagen')
+
+
+          .row
+            .col-md-4
+              figure
+                img.mb-3(src='@/assets/curso/images/tema3/img_9.png', alt='Texto que describa la imagen')
+            .col-md-7.mb-4.mb-md-0
+              h3 Clasificación
+              p Consiste en ordenar los datos de acuerdo a alguno de sus atributos. Por ejemplo, ordenar alfabéticamente los apellidos, ordenar la información de acuerdo con el nivel de ventas y de menor a mayor.
           
 
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Validación
-          p Permite limitar las entradas de datos para asegurar que estos cumplan con determinadas especificaciones, como: límites de números en rangos específicos, limitar fechas y horas en un periodo de tiempo determinado, limitar el número de caracteres de un texto. Ejemplo: validar que los datos ingresados estén en un rango de 0 a 100.
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Agrupación
+              p Aquí se agrupan los datos por categorías, como producto, lugar de residencia y edades, etc.
+            .col-md-4
+              figure
+                img(src='@/assets/curso/images/tema3/img_10.png', alt='Texto que describa la imagen')
+    
+
+          .row
+            .col-md-4
+              figure
+                img.mb-3(src='@/assets/curso/images/tema3/img_11.png', alt='Texto que describa la imagen')
+            .col-md-7.mb-4.mb-md-0
+              h3 Cálculos
+              p Se refiere a las operaciones matemáticas o lógicas que se deben realizar con los datos para obtener determinados resultados, como: operaciones (suma, resta, multiplicación, división).
+          
+            
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Síntesis de datos
+              p Se trata de convertir gran cantidad de datos en una más pequeña y de más fácil comprensión e interpretación.
+            .col-md-4
+              figure
+                img(src='@/assets/curso/images/tema3/img_12.png', alt='Texto que describa la imagen')
+
       
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema3/img_8.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-4
+              figure
+                img.mb-3(src='@/assets/curso/images/tema3/img_13.png', alt='Texto que describa la imagen')
+            .col-md-7.mb-4.mb-md-0
+              h3 Salida
+              p Es la información obtenida al terminar el proceso de procesamiento de datos.
 
-
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema3/img_9.png', alt='Texto que describa la imagen')
-        .col-md-7.mb-4.mb-md-0
-          h3 Clasificación
-          p Consiste en ordenar los datos de acuerdo a alguno de sus atributos. Por ejemplo, ordenar alfabéticamente los apellidos, ordenar la información de acuerdo con el nivel de ventas y de menor a mayor.
-      
-
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Agrupación
-          p Aquí se agrupan los datos por categorías, como producto, lugar de residencia y edades, etc.
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema3/img_10.png', alt='Texto que describa la imagen')
- 
-
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema3/img_11.png', alt='Texto que describa la imagen')
-        .col-md-7.mb-4.mb-md-0
-          h3 Cálculos
-          p Se refiere a las operaciones matemáticas o lógicas que se deben realizar con los datos para obtener determinados resultados, como: operaciones (suma, resta, multiplicación, división).
-      
-        
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Síntesis de datos
-          p Se trata de convertir gran cantidad de datos en una más pequeña y de más fácil comprensión e interpretación.
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema3/img_12.png', alt='Texto que describa la imagen')
-
-  
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema3/img_13.png', alt='Texto que describa la imagen')
-        .col-md-7.mb-4.mb-md-0
-          h3 Salida
-          p Es la información obtenida al terminar el proceso de procesamiento de datos.
-
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Evaluación de resultados
-          p Es el análisis de la información obtenida que lleve a la mejora en la toma de decisiones.
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema3/img_14.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Evaluación de resultados
+              p Es el análisis de la información obtenida que lleve a la mejora en la toma de decisiones.
+            .col-md-4
+              figure
+                img(src='@/assets/curso/images/tema3/img_14.png', alt='Texto que describa la imagen')
 
 
     p.mb-3 Uno de los principales factores que contribuye a la gran evolución que ha tenido el procesamiento de datos es el desarrollo tecnológico que ha llevado a la creación de herramientas digitales que facilitan estos procesos. Actualmente existen varias técnicas de procesamiento de datos, las cuales van desde lo manual, hasta el procesamiento completamente electrónico. Por consiguiente, en el siguiente tema, se describen las técnicas de procesamiento de datos.
@@ -214,7 +216,7 @@
     Separador
 
     #t_3_1.titulo-segundo
-      .h4 3.1. Técnicas de procesamiento de datos
+      .h2 3.1. Técnicas de procesamiento de datos
     
     .row.justify-content-center.align-items-center.mb-5  
       .col-lg-10
@@ -238,7 +240,7 @@
       div(titulo="Procesamiento manual de datos")
         .row.align-items-star.justify-content-center.p-4
           .col-lg-5
-            img(src='@/assets/curso/images/tema3/img_16.png')
+            img.mb-3(src='@/assets/curso/images/tema3/img_16.png')
           .col-lg-7
             p.mb-3 Este proceso solo involucra el uso de recursos humanos, como cálculos mentales, obtención de datos de forma escrita y en papel, organización y clasificación manual de los datos. 
 
@@ -250,7 +252,7 @@
       div(titulo="Procesamiento mecánico de datos")
         .row.align-items-star.justify-content-center.p-4
           .col-lg-5
-            img(src='@/assets/curso/images/tema3/img_17.png')
+            img.mb-3(src='@/assets/curso/images/tema3/img_17.png')
           .col-lg-7
             p.mb-3 En este tipo de procesamiento se reemplazan los cálculos manuales y/o mentales por herramientas mecánicas que facilitan y agilizan su realización, también genera una disminución significativa en los errores que se pueden cometer de forma manual. 
 
@@ -261,7 +263,7 @@
       div(titulo="Procesamiento electrónico de datos")
         .row.align-items-star.justify-content-center.p-4
           .col-lg-5
-            img(src='@/assets/curso/images/tema3/img_18.png')
+            img.mb-3(src='@/assets/curso/images/tema3/img_18.png')
           .col-lg-7
             p.mb-3 Este proceso se caracteriza por el uso de herramientas electrónicas, como computadoras para el procesamiento de los datos. Aquí la acción humana es mínima, ya que solo se requiere el ingreso de los datos y el computador realiza las operaciones de forma automática y arroja los resultados instantáneamente y con un margen muy pequeño de errores.
 
@@ -270,7 +272,7 @@
     Separador
 
     #t_3_2.titulo-segundo
-      .h4 3.2. Reportes
+      .h2 3.2. Reportes
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
@@ -288,74 +290,72 @@
         h3.text-center Reportes 
         p.text-center Partes que deben tener los reportes
 
-    
-    .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-down")  
-      .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
-          .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido
-              img.img-a(src="@/assets/curso/images/tema3/fl_1_1.svg", alt= "")
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/images/tema3/fl_1.png')})`}")
-            
-      .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.abajo.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido
-              img.img-a(src="@/assets/curso/images/tema3/fl_2_1.svg", alt= "")  
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/images/tema3/fl_2.png')})`}")
 
-      .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido
-              img.img-a(src="@/assets/curso/images/tema3/fl_3_1.svg", alt= "")  
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/images/tema3/fl_3.png')})`}")
-      
-      .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.abajo.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido
-              img.img-a(src="@/assets/curso/images/tema3/fl_4_1.svg", alt= "")  
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/images/tema3/fl_4.png')})`}")
+    .row.mb-5.justify-content-center
+      .col-lg-3.col-auto.mb-3.mb-lg-0
+        .tarjeta.tarjeta-up
+          img(src="@/assets/curso/images/tema3/fl_1.png", alt= "")
+          .tarjeta-up__content.bg-1
+            h4 Índice
+            p Señala el contenido del reporte y se numeran las páginas que lo integran.
+      .col-lg-3.col-auto.mb-3.mb-lg-0
+        .tarjeta.tarjeta-up
+          img(src="@/assets/curso/images/tema3/fl_2.png", alt= "")
+          .tarjeta-up__content.bg-2
+            h4 Introducción
+            p Explica de forma breve el tema y la forma en que se abordará el reporte.
+      .col-lg-3.col-auto.mb-3.mb-lg-0
+        .tarjeta.tarjeta-up
+          img(src="@/assets/curso/images/tema3/fl_3.png", alt= "")
+          .tarjeta-up__content.bg-1
+            h4 Desarrollo
+            p Es el cuerpo del reporte, se desarrolla el tema del mismo de manera congruente, ordenada y clara.
+      .col-lg-3.col-auto.mb-3.mb-lg-0
+        .tarjeta.tarjeta-up
+          img(src="@/assets/curso/images/tema3/fl_4.png", alt= "")
+          .tarjeta-up__content.bg-2
+            h4 Conclusión o resultados
+            p Se resaltan los puntos o resultados más importantes que evidencia el reporte.
+    
+  
 
     p.mb-5 Aquí es calve mencionar que cada empresa maneja sus propios formatos para realizar un reporte con información requerida por ellas; aun así, se tiene una estructura básica cumpliendo con las partes solicitadas, las cuales se pueden apreciar como en la figura a continuación:
   
 
     .row.justify-content-center.p-5
       .col-lg-12
-        .titulo-sexto.color-acento-botones
-          h5 Figura 1. Reporte de actividades
+        .titulo-sexto.color-acento-contenido
+          p Figura 1. Reporte de actividades
 
-    .row.align-items-center.justify-content-center.mb-5
-      .col-lg-6(data-aos="fade-left") 
-        img.mb-3(src='@/assets/curso/images/tema3/info.svg')
-      .col-lg-6(data-aos="fade-right") 
-        p.mb-3 Como se puede evidenciar en la anterior figura, el reporte debe contener la información básica del empleado, para su correcta identificación y la medición de su rendimiento, por lo cual deben registrarse las tareas realizadas, las que están en progreso y las que pronto se realizarán, con el fin de:
+        .row.align-items-center.justify-content-center.mb-5
+          .col-lg-6(data-aos="fade-left") 
+            img.mb-3(src='@/assets/curso/images/tema3/info.svg')
+          .col-lg-6(data-aos="fade-right") 
+            p.mb-3 Como se puede evidenciar en la anterior figura, el reporte debe contener la información básica del empleado, para su correcta identificación y la medición de su rendimiento, por lo cual deben registrarse las tareas realizadas, las que están en progreso y las que pronto se realizarán, con el fin de:
 
-        ul.lista-ul--color
-          li.mb-4
-            i.fas.fa-paper-plane.colr_2
-            | Tomar decisiones o hacer nuevas contrataciones.
-          li.mb-4
-            i.fas.fa-paper-plane.colr_2
-            | Para apoyar los departamentos de la empresa que lo requieran.
-          li.mb-4
-            i.fas.fa-paper-plane.colr_2
-            | Para hacer medición de productividad del empleado o grupos de empleados.
-          li.mb-4
-            i.fas.fa-paper-plane.colr_2
-            | Para hacer la medición de tiempos y movimientos.
-          li.mb-4
-            i.fas.fa-paper-plane.colr_2
-            | Para la optimización de procesos, entre otros.
-        
-        p.mb-3 Sin este tipo de reportes sería imposible visualizar las compañías desde su rendimiento, funcionamiento y cumplimiento de responsabilidades.
+            ul.lista-ul--color
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Tomar decisiones o hacer nuevas contrataciones.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Para apoyar los departamentos de la empresa que lo requieran.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Para hacer medición de productividad del empleado o grupos de empleados.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Para hacer la medición de tiempos y movimientos.
+              li.mb-4
+                i.fas.fa-paper-plane.colr_2
+                | Para la optimización de procesos, entre otros.
+            
+            p.mb-3 Sin este tipo de reportes sería imposible visualizar las compañías desde su rendimiento, funcionamiento y cumplimiento de responsabilidades.
 
     Separador
 
     #t_3_3.titulo-segundo
-      .h4 3.3. Reportes
+      .h2 3.3. Fichero
 
     p.mb-5 Una vez el vendedor esté vinculado con una empresa comercializadora de juegos de suerte y azar se requiere estar atento a las recomendaciones y estrategias sugeridas por la red de apuestas; no obstante, el vendedor como individuo debe convertirse en un emprendedor de su punto de venta y para concretar su estrategia se recomienda tener elementos clave definidos más adelante.
 
@@ -385,7 +385,7 @@
             h3.text-center.mt-4 Los que contienen la información de los clientes
           p.mb-4.text-center En ellos se almacenan datos como nombre, dirección, teléfono, direcciones de envío, código de cliente, datos de facturación, etc.
       .col-12.col-md-3.mb-3.mb-md-0
-        div.bgr_1.p-5
+        div.bgr_2.p-5
           .row.align-items-center.justify-content-center.mb-4      
             img.img120(src="@/assets/curso/images/tema3/ico_13.png" alt='', style="width:200px; display:block; margin:auto 0 ;")
             h3.text-center.mt-5 Los  que tienen datos de los proveedores
@@ -468,7 +468,7 @@
     Separador
 
     #t_3_4.titulo-segundo
-      .h4 3.4. Bases de datos
+      .h2 3.4. Bases de datos
 
 
     .row.justify-content-center.align-items-center.mb-5  
@@ -546,21 +546,21 @@
             figure
               img(src='@/assets/curso/images/tema3/info_2.svg')
           .tarjeta.color-custom-info.p-3(x="2%" y="8%" numero="+")
-            h3 Atributo o campo 
+            h5 Atributo o campo 
             p.mb-0 Corresponde a las categorías de los datos almacenados en la tabla; es decir, al atributo de la información que se está especificando, los atributos van en la parte que corresponde a las columnas de la tabla.  Por ejemplo: nombre, código del cliente, dirección y edad, etc.
           .tarjeta.color-custom-info.p-3(x="2%" y="35%" numero="+")
-            h3 Clave candidata
+            h5 Clave candidata
             p.mb-3 Es el campo de la tabla que se caracteriza porque destaca o diferencia cada uno de los registros almacenados en la fila.  En toda tabla debe haber una clave primaria y nunca puede contener valores nulos. 
 
             p.mb-0 Por ejemplo: si se está realizando una base de datos que contenga la información de los clientes, la clave primaria corresponde al código del cliente, ya que a cada uno se le asigna un código diferente y no es posible que dos clientes tengan el mismo, observamos así que la clave principal corresponde a ese atributo que diferencia los registros de forma única.
 
           .tarjeta.color-custom-info.p-3(x="99%" y="8%" numero="+")
-            h3 Tabla 
+            h5 Tabla 
             p.mb-3 Contiene todos los datos recopilados sobre un determinado tema o área de la organización.
 
 
           .tarjeta.color-custom-info.p-3(x="99%" y="46%" numero="+")
-            h3 Dominio
+            h5 Dominio
             p Es el conjunto de valores entre los cuales se puede encontrar delimitado el atributo, por ejemplo, solo datos numéricos, edades entre los 15 y 25, cabe mencionar que el dominio se realiza de acuerdo con la necesidad de la empresa. 
 
 
@@ -582,33 +582,33 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-3.p-4.mb-4.p-3
           .row.justify-content-around.align-items-center
-            .col-lg-10
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Teniendo en cuenta los anteriores conceptos básicos para la correcta creación y estructuración de una base de datos, existen dos tipos de relación entre registros para jugar con la información almacenada y dar respuesta a las necesidades de los clientes y empresas como del sector al que pertenecen, estos tipos de relación son los siguientes:
+                  p.mb-0 Teniendo en cuenta los anteriores conceptos básicos para la correcta creación y estructuración de una base de datos, existen dos tipos de relación entre registros para jugar con la información almacenada y dar respuesta a las necesidades de los clientes y empresas como del sector al que pertenecen, estos tipos de relación son los siguientes:
 
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Asociación (1:1)" :icono="require('@/assets/curso/images/tema3/ico_17.svg')")
-        .row
+        .row.justify-content-center
           .col-md-7.mb-4.mb-md-0
             h3 Asociación (1:1)
             p.mb-3 Es el tipo de relación en la que a cada registro de la tabla está relacionado solo con 1 registro de otra tabla. 
             p.mb-0 Por ejemplo, en una tabla de productos y en una tabla de proveedores, encontramos que la relación es 1:1, porque cada producto solo puede suministrado por un proveedor (asumiendo que cada proveedor distribuya solo un tipo de producto).
         
-          .col-md-5
+          .col-md-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/images/tema3/img_25.svg', alt='Texto que describa la imagen')
 
-      .py-4.py-md-5(titulo="Asociación de uno a variosf" :icono="require('@/assets/curso/images/tema3/ico_18.svg')")
-        .row  
+      .py-4.py-md-5(titulo="Asociación de uno a varios" :icono="require('@/assets/curso/images/tema3/ico_18.svg')")
+        .row.justify-content-center
           .col-md-7
             h3 Asociación de uno a varios
             p.mb-3 En este tipo de relación encontramos que cada registro de una tabla puede relacionarse con varios registros de otra tabla.
             p.mb-0 Por ejemplo, si se tiene una tabla con la información de los clientes y otra con la información de los pedidos, puede haber una relación de uno a varios, ya que un cliente puede realizar varios pedidos y cada pedido puede corresponder solo a un cliente.
-          .col-md-5.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/images/tema3/img_25.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/images/tema3/img_26.svg', alt='Texto que describa la imagen')
 
     p.mb-3 Las bases de datos son en la actualidad una de las herramientas más completas para el procesamiento y manejo de datos, porque otorgan grandes ventajas a sus usuarios y están cada día más al alcance de las organizaciones. Estas herramientas permiten el manejo de mucha información de una manera mucho más sencilla, lo que facilita a las empresas contar con este recurso útil y confiable en el cual puede basarse para la toma de decisiones.
 
@@ -645,4 +645,28 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.tarjeta-up
+  overflow: hidden
+  position: relative
+  .tarjeta-up__content
+    position: absolute
+    bottom: -75%
+    width: 100%
+    height: 80%
+    padding: 2rem
+    transition: bottom 0.7s ease-in-out
+    &.bg-1
+        background-color: #B1C4D0
+        h1, h2, h3, h4, h5, p
+          color: $black
+    &.bg-2
+        background-color: #C5EAFB
+    &.bg-3
+        background-color: $color-acento-contenido
+    &.bg-4
+        background-color: $color-acento-botones
+  &:hover
+    .tarjeta-up__content
+      bottom: 0%
+</style>

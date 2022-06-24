@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    .row.align-items-center.justify-content-center
+    .row.align-items-center.justify-content-center.mb-5
       .col-lg-4(data-aos="fade-right")  
         img.mb-3(src='@/assets/curso/images/tema1/intro/img_1.png')
       .col-lg-6(data-aos="fade-left")
@@ -47,14 +47,13 @@
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Ahora bien, es importante mencionar el papel de un plan de trabajo claro y contundente, pues facilitará el cumplimiento de metas propuestas, así como el seguimiento de resultados y un correcto control de los tiempos y movimientos, por lo que cada empresa debe contar con uno y es aquí donde nace la necesidad de personal capacitado para entenderlo y ejecutarlo a la perfección.
+                  p Ahora bien, es importante mencionar el papel de un <b> plan de trabajo claro y contundente </b>, pues facilitará el cumplimiento de metas propuestas, así como el seguimiento de resultados y un correcto control de los tiempos y movimientos, por lo que cada empresa debe contar con uno y es aquí donde nace la necesidad de personal capacitado para entenderlo y ejecutarlo a la perfección.
     
     p.mb-5 Por lo tanto, en este componente formativo se dará al aprendiz la información necesaria logrando conocer todos los factores importantes y relevantes para dar respuesta a las necesidades de las empresas y ser el apoyo vital para el desarrollo y crecimiento de las mismas, de igual manera, el conocimiento para determinar las necesidades de los clientes y cómo seguir un plan de trabajo, abordando los temas pertinentes, que serán soporte para desenvolverse en este campo de la economía. Para contextualizar más este componente, se invita a revisar el siguiente video:
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jtClREk9TY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </template>
 
 <script>

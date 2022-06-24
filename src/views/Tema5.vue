@@ -39,7 +39,7 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-3.p-4.mb-4.p-3
           .row.justify-content-around.align-items-center
-            .col-lg-10
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-0 El plan es una guía y también es el medio por el cual quedan establecidas las estrategias y las metas que la compañía se ha planteado en un periodo determinado, de esta manera, contiene toda la información necesaria para el cumplimiento de los objetivos propuestos por la junta directiva.
@@ -47,13 +47,13 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom.p-3.mb-4
           .row.justify-content-around.align-items-center
-            .col-lg-2.col-sm-2
-              img.mx-3(src="@/assets/curso/images/tema2/ico_1.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;").mb-3
-            .col-lg-10
+            .col.px-3.mb-3.mb-md-0
+              img(src="@/assets/curso/images/tema2/ico_1.svg")
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3 Para recordar:
-                  p El plan de trabajo es un planificador que posee cualidades y características dinámicas que se pueden transformar a la medida de la evolución del tiempo, teniendo en cuenta el contexto social del momento, espacial y temporal.
+                  h5.mb-1 Para recordar:
+                  p.mb-0 El plan de trabajo es un planificador que posee cualidades y características dinámicas que se pueden transformar a la medida de la evolución del tiempo, teniendo en cuenta el contexto social del momento, espacial y temporal.
 
     p.mb-3 Una parte fundamental a la hora de generar un plan de trabajo es la contextualización social, económica, política y cultural debido a que ayuda a definir una problemática para cambiarla y mejorar como empresa, así aclara los objetivos de las empresas, ayuda a medir los procesos, de los proyectos, también permite anticiparse a las futuras contingencias dado que identifica los problemas a tiempo y permite la toma de decisiones más fácil, clara y eficiente.
 
@@ -79,7 +79,7 @@
     Separador
 
     #t_5_1.titulo-segundo
-      .h4 5.1. Metodología y aplicabilidad
+      .h2 5.1. Metodología y aplicabilidad
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
@@ -106,64 +106,66 @@
 
     p.mb-5 Siguiendo con el tema, se hace necesario hablar de los pasos básicos que se pueden aplicar a la hora de realizar un plan de trabajo, los cuales podrían resumirse de la siguiente manera:
 
-    PasosA.color-acento-contenido.my-5(tipo="n")
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 La identificación de un problema
-          p - La empresa desea incrementar sus ventas.
-          p - Un plan de acción por un factor político o social que la está afectando. 
-          p - Lanzamiento de un nuevo producto o servicio.
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema5/img_4.svg', alt='Texto que describa la imagen')
+    .row.align-items-center.justify-content-center
+      .col-lg-10
+        PasosA.color-acento-contenido.my-5(tipo="n")
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 La identificación de un problema
+              p - La empresa desea incrementar sus ventas.
+              p - Un plan de acción por un factor político o social que la está afectando. 
+              p - Lanzamiento de un nuevo producto o servicio.
+            .col-md-5
+              figure
+                img(src='@/assets/curso/images/tema5/img_4.svg', alt='Texto que describa la imagen')
 
 
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema5/img_5.svg', alt='Texto que describa la imagen')
+          .row
+            .col-md-5
+              figure
+                img.mb-3(src='@/assets/curso/images/tema5/img_5.svg', alt='Texto que describa la imagen')
 
-        .col-md-7.mb-4.mb-md-0
-          h3 Planear los objetivos
-          p.mb-3  Definir qué se busca cumplir en el plan de trabajo, va de la mano con la identificación del problema, por ejemplo:
-          p.mb-0  “Se necesitan incrementar los ingresos, como objetivo se vería reflejado el incremento de los ingresos dentro de un nivel alcanzable”.
+            .col-md-7.mb-4.mb-md-0
+              h3 Planear los objetivos
+              p.mb-3  Definir qué se busca cumplir en el plan de trabajo, va de la mano con la identificación del problema, por ejemplo:
+              p.mb-0  “Se necesitan incrementar los ingresos, como objetivo se vería reflejado el incremento de los ingresos dentro de un nivel alcanzable”.
+              
+
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Definir un grupo de estudio
+              p Investigar el sector al que se apunta, la población meta de la empresa.
+          
+            .col-md-5
+              figure
+                img(src='@/assets/curso/images/tema5/img_6.png', alt='Texto que describa la imagen')
+
+
+          .row
+            .col-md-5
+              figure
+                img.mb-3(src='@/assets/curso/images/tema5/img_7.svg', alt='Texto que describa la imagen')
+            .col-md-7.mb-4.mb-md-0
+              h3 Definir el equipo y presupuesto
+              p Establecer el presupuesto que se dispondrá para la realización del plan de trabajo.
           
 
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Definir un grupo de estudio
-          p Investigar el sector al que se apunta, la población meta de la empresa.
-      
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema5/img_6.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-7.mb-4.mb-md-0
+              h3 Crear de un plan de marketing
+              p Este debe generar confianza y cercanía para que el plan de trabajo tenga garantías y se acerque al éxito, que sería medible en cuanto al cumplimiento de los objetivos.
+            .col-md-5
+              figure
+                img(src='@/assets/curso/images/tema5/img_8.png', alt='Texto que describa la imagen')
+    
 
-
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema5/img_7.svg', alt='Texto que describa la imagen')
-        .col-md-7.mb-4.mb-md-0
-          h3 Definir el equipo y presupuesto
-          p Establecer el presupuesto que se dispondrá para la realización del plan de trabajo.
-      
-
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h3 Crear de un plan de marketing
-          p Este debe generar confianza y cercanía para que el plan de trabajo tenga garantías y se acerque al éxito, que sería medible en cuanto al cumplimiento de los objetivos.
-        .col-md-4
-          figure
-            img(src='@/assets/curso/images/tema5/img_8.png', alt='Texto que describa la imagen')
- 
-
-      .row
-        .col-md-4
-          figure
-            img.mb-3(src='@/assets/curso/images/tema5/img_9.png', alt='Texto que describa la imagen')
-        .col-md-7.mb-4.mb-md-0
-          h3 Realizar control, hacer retroalimentación y definir resultados esperados
-          p Donde se evidencie la manera en que será controlado y verificado el plan de trabajo, además de realizar los cambios pertinentes en el momento que se requieran, mientras se están ejecutando para reportar los resultados y novedades que aparezcan dentro y al final de la ejecución del mismo.
+          .row
+            .col-md-5
+              figure
+                img.mb-3(src='@/assets/curso/images/tema5/img_9.png', alt='Texto que describa la imagen')
+            .col-md-7.mb-4.mb-md-0
+              h3 Realizar control, hacer retroalimentación y definir resultados esperados
+              p Donde se evidencie la manera en que será controlado y verificado el plan de trabajo, además de realizar los cambios pertinentes en el momento que se requieran, mientras se están ejecutando para reportar los resultados y novedades que aparezcan dentro y al final de la ejecución del mismo.
 
     p.mb-3 Teniendo en cuenta los anteriores pasos para la elaboración de un plan de trabajo, su aplicabilidad puede darse en cualquier sector de la economía, además de resaltar su importancia como guía para que el equipo de trabajo se encamine en un solo norte, con los mismos objetivos, evitando así información dispersa y fallas en la comunicación, errores comunes cuando no existe un plan ni una dirección clara dentro de las organizaciones. 
 
@@ -173,7 +175,7 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-3.p-4.mb-4.p-3
           .row.justify-content-around.align-items-center
-            .col-lg-10
+            .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-0 Es aquí, entonces, donde nace la necesidad de seguir los planes de trabajo, sus lineamientos y encaminarse a los mismos objetivos, si un grupo de personas no funcionan de acuerdo con el plan, los objetivos de la empresa pueden fracasar, no logrando las ventas esperadas y creando cuellos de botella en el área de producción o llevar a la toma de decisiones cero asertivas. Como un engranaje, todo el equipo de trabajo debe funcionar en conjunto con ese motor que es el plan de trabajo y el éxito como norte.
@@ -181,7 +183,7 @@
     Separador
 
     #t_5_2.titulo-segundo
-      .h4 5.2. Control de tiempos y movimientos
+      .h2 5.2. Control de tiempos y movimientos
 
     
     .row.align-items-center.justify-content-center.mb-5
