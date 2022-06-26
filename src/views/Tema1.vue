@@ -57,7 +57,7 @@
 
 
     TabsC.color-acento-contenido.d-none.d-lg-block(data-aos="zoom-in-down")
-      .py-3.py-md-4.color-custom-2(titulo="Segmentación geográfica")
+      .py-4.py-md-4.color-custom-2(titulo="Segmentación geográfica")
         .row.justify-content-center.p-4
           .col-12.col-md-4.mb-3.mb-md-0
             h5 Segmentación geográfica
@@ -332,7 +332,7 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/jYDNBsZ1UsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     .row.align-items-center.aling.my-3
-      .col-lg-10(data-aos="zoom-in-down")
+      .col-lg-12(data-aos="zoom-in-down")
         .tarjeta.color-primario.p-4.mb-5
           .row.justify-content-center.align-items-center
             .col-3.col-sm-2.col-lg-1

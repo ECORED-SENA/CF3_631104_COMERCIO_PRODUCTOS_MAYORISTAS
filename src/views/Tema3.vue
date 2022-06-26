@@ -24,11 +24,11 @@
               p.text-center Estas características se fundamentan principalmente en la capacidad que han tenido los altos directivos para tomar las decisiones correctas y gestionar adecuadamente los recursos con los que cuentan sus organizaciones, incluyendo:
             .row.justify-content-center.align-items-stretch
               .col-8.col-md-3.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema3/ico_1_1_2.svg")
+                img(src="@/assets/curso/images/tema3/ico_1_1_1.svg")
               .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_2_1.svg")
               .col-8.col-md-2.mb-3.mb-md-0
-                img(src="@/assets/curso/images/tema3/ico_3_1_2.svg")
+                img(src="@/assets/curso/images/tema3/ico_3_1.svg")
               .col-8.col-md-2.mb-3.mb-md-0
                 img(src="@/assets/curso/images/tema3/ico_4_1.svg")
               .col-8.col-md-2.mb-3.mb-md-0
@@ -325,13 +325,13 @@
     .row.justify-content-center.p-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido
-          p Figura 1. Reporte de actividades
+          p <b>Figura 1.</b> Reporte de actividades
 
         .row.align-items-center.justify-content-center.mb-5
           .col-lg-6(data-aos="fade-left") 
             img.mb-3(src='@/assets/curso/images/tema3/info.svg')
           .col-lg-6(data-aos="fade-right") 
-            p.mb-3 Como se puede evidenciar en la anterior figura, el reporte debe contener la información básica del empleado, para su correcta identificación y la medición de su rendimiento, por lo cual deben registrarse las tareas realizadas, las que están en progreso y las que pronto se realizarán, con el fin de:
+            p.mb-0 Como se puede evidenciar en la anterior figura, el reporte debe contener la información básica del empleado, para su correcta identificación y la medición de su rendimiento, por lo cual deben registrarse las tareas realizadas, las que están en progreso y las que pronto se realizarán, con el fin de:
 
             ul.lista-ul--color
               li.mb-4
@@ -492,9 +492,9 @@
     p.mb-3 Es aquí donde juega un papel importante esta conformación de bases de datos, de clientes, de proveedores, de industrias aliadas y de toda aquella información pertinente que permitirá crecer y encontrar respuesta para brindar un producto o servicio de valor.
 
     .row.align-items-center.justify-content-center.my-5
-      .col-lg-5(data-aos="fade-left") 
-        img.mb-3(src='@/assets/curso/images/tema3/img_24.png'  alt='', style="width:400px; display:block; margin:auto 0 ;")
-      .col-lg-5(data-aos="fade-right") 
+      .col-lg-4(data-aos="fade-left") 
+        img.mb-3(src='@/assets/curso/images/tema3/img_24.png')
+      .col-lg-6(data-aos="fade-right") 
         p.mb-3 Cuando se mencionan las bases de datos, estas son conjuntos de datos relacionados, en los que se compilan la información de una empresa, con el propósito de acceder a esta de forma completa y organizada, permitiendo así, la constante alimentación de información de interés de la organización. Estas se diseñan en relación a los requerimientos o necesidades de cada tipo de empresa y sector al cual pertenecen; además, se tienen en cuenta aspectos, tales como:    
         ul.lista-ul--color.mt-3(data-aos="zoom-out-left")
           li.mb-4
@@ -566,9 +566,9 @@
 
     p.mb-3 Por otro lado, es de vital importancia que observe un registro de una base de datos de clientes y cómo se ubican cada uno de los elementos mencionados con anterioridad en la siguiente figura:
 
-    .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right")
+    .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
         h5 Figura 2
-        span <em>Base de datos clientes</em>
+        span Base de datos clientes
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-left") 

@@ -7,7 +7,7 @@
         span 2
       h1 Clientes
   .container.bg-white.px-md-5.px-3.py-2.container-top.fondo.mb-0.cs
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.mb-5
       .col-lg-6(data-aos="fade-left") 
         img.mb-3(src='@/assets/curso/images/tema2/img_1.png')
       .col-lg-5(data-aos="fade-right") 
@@ -67,7 +67,7 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom.p-3.mb-4
           .row.justify-content-around.align-items-center
-            .col.px-3.mb-3.mb-md-0
+            .col-5.col-sm-2.px-3.mb-3.mb-md-0
               img(src="@/assets/curso/images/tema2/ico_1.svg")
             .col-lg-10
               .row.justify-content-between.align-items-center
@@ -229,7 +229,7 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom.p-3
           .row.justify-content-around.align-items-center
-            .col.px-3.mb-3.mb-md-0
+            .col-5.col-sm-2.px-3.mb-3.mb-md-0
               img(src="@/assets/curso/images/tema2/ico_9.svg")
             .col-lg-10
               .row.justify-content-between.align-items-center
@@ -381,7 +381,7 @@
                 img.mt-5(src="@/assets/curso/images/tema2/img_16.svg")
 
     .row.align-items-center.mb-5
-      .col-lg-4(data-aos="zoom-in-down")
+      .col-lg-3(data-aos="zoom-in-down")
         img.mt-3(src="@/assets/curso/images/tema2/ico_16.svg", style="width: 310px").m-auto
 
 
@@ -430,7 +430,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-1 <b> Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado Estrategia de marketing, el cual encuentra en el material complementario.</b>
+                  p.mb-1.text <b> Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado Estrategia de marketing, el cual encuentra en el material complementario.</b>
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                     span Descargar
@@ -454,7 +454,7 @@
             img.img120(src="@/assets/curso/images/tema2/ico_18.png" alt='', style="width:200px; display:block; margin:auto 0 ;")
           p.mb-4.text-center Garantizar que el producto o servicio llegue a su público objetivo.
       .col-12.col-md-3.mb-3.mb-md-0
-        div.bgr_2.p-5
+        div.bgr_3.p-5
           .row.align-items-center.justify-content-center.mb-4      
             img.img120(src="@/assets/curso/images/tema2/ico_19.png" alt='', style="width:200px; display:block; margin:auto 0 ;")
           p.mb-5.text-center Que sea usado de la forma correcta.

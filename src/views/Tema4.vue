@@ -84,7 +84,7 @@
 
 
     .row.justify-content-evenly.align-items-center.p-5
-      .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-12.col-lg-5.mb-4.p-0.p-md-5(data-aos="fade-left")
         h3.my-5 Cliente Real
         LineaTiempoD.color-secundario.especial
           .row(titulo='Cliente real' numero='1')
@@ -128,7 +128,7 @@
         img(src='@/assets/curso/images/tema4/img_5.svg' alt='', style="width:500px; display:block; margin:auto 0;")
 
     .row.justify-content-evenly.align-items-center.p-5
-      .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-12.col-lg-5.mb-4.p-0.p-md-5(data-aos="fade-right")
         img.my-5(src='@/assets/curso/images/tema4/img_6.svg' alt='', style="width:500px; display:block; margin:auto 0;")
       .col-lg-5(data-aos="fade-left")
         LineaTiempoD.color-secundario.especial

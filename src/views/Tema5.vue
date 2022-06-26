@@ -47,7 +47,7 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom.p-3.mb-4
           .row.justify-content-around.align-items-center
-            .col.px-3.mb-3.mb-md-0
+            .col-5.col-sm-2.px-3.mb-3.mb-md-0
               img(src="@/assets/curso/images/tema2/ico_1.svg")
             .col-lg-11
               .row.justify-content-between.align-items-center

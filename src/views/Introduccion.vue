@@ -40,7 +40,7 @@
 
     .row.aling.my-5   
       .col-lg-10(data-aos="zoom-in-down")
-        .cajon.color-custom.p-4.mb-4.p-5
+        .cajon.color-custom.p-4.mb-4.p-4
           .row.justify-content-around.align-items-center
             .col-lg-2.col-sm-2
               img.mx-3(src="@/assets/curso/images/tema1/intro/ico_1.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;").mb-3
