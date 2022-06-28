@@ -83,7 +83,7 @@
             img(src='@/assets/curso/images/tema4/img_4.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
 
 
-    .row.justify-content-evenly.align-items-center.p-5
+    .row.justify-content-evenly.align-items-center.p-2
       .col-12.col-lg-5.mb-4.p-0.p-md-5(data-aos="fade-left")
         h3.my-5 Cliente Real
         LineaTiempoD.color-secundario.especial
@@ -127,7 +127,7 @@
       .col-lg-5(data-aos="fade-right")
         img(src='@/assets/curso/images/tema4/img_5.svg' alt='', style="width:500px; display:block; margin:auto 0;")
 
-    .row.justify-content-evenly.align-items-center.p-5
+    .row.justify-content-evenly.align-items-center.p-2
       .col-12.col-lg-5.mb-4.p-0.p-md-5(data-aos="fade-right")
         img.my-5(src='@/assets/curso/images/tema4/img_6.svg' alt='', style="width:500px; display:block; margin:auto 0;")
       .col-lg-5(data-aos="fade-left")
@@ -172,7 +172,7 @@
       
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.my-5(src="@/assets/curso/images/tema4/ico_1.svg", style="width: 350px").m-auto
+        img.my-5(src="@/assets/curso/images/tema4/ico_1_1.svg", style="width: 350px").m-auto
 
       p.mb-5 Es el modo ordenado y sistemático para clasificar las zonas, áreas o sectores geográficos donde se ubica el comercio según unos criterios definidos. Cuando una empresa o una marca vende sus productos en ese lugar tiene mayor posibilidad de tener resultados óptimos; por lo anterior, existen diferentes variables a tener en cuenta a la hora del diseño de métodos de zonificación, las cuales puede revisar a continuación:
 
@@ -181,7 +181,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema4/ico_2.svg", style="width: 390px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema4/ico_2_1.svg", style="width: 390px").m-auto
 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -264,7 +264,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-5(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema4/ico_3.svg", style="width: 490px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema4/ico_3_1.svg", style="width: 490px").m-auto
 
 
     .row.justify-content-center.align-items-center.mb-5  
@@ -290,7 +290,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-5(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema4/ico_4.svg", style="width: 490px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema4/ico_4_1.svg", style="width: 490px").m-auto
 
     p.mb-3 Eficiencia y eficacia, dos palabras que buscan las empresas, en especial las mayoristas para llegar a abarcar todo su sector y darse a conocer, es por ello que existe la necesidad de elaborar una ruta de venta estratégica, sus ventajas son las siguientes:
 
@@ -319,7 +319,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-6(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema4/ico_5.svg", style="width: 600px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema4/ico_5_1.svg", style="width: 600px").m-auto
 
     .row.align-items-star.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-left") 

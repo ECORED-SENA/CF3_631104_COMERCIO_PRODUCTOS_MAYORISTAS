@@ -10,7 +10,7 @@
     .row.align-items-center.justify-content-center.mb-3
       .col-lg-5(data-aos="fade-right") 
         .cajon-b.color-custom-1.p-3.my-3
-          p.mb-3 Para entender la segmentación de mercados, primero se debe hablar del concepto: mercado en el área comercial y marketing, viéndolo desde el punto de vista como <b> la plaza </b> a la cual las empresas y la economía se mueve en torno a los productos y servicios ofertados, de acuerdo a la demanda que se tiene de estos bajo la influencia de factores políticos, culturales y económicos, entre otros, que nacen a partir de las necesidades de los clientes, movidos por una sociedad globalizada y virtualizada. 
+          p.mb-3 Para entender la segmentación de mercados, primero se debe hablar del concepto: mercado en el área comercial y <i> Marketing </i>, viéndolo desde el punto de vista como <b> la plaza </b> a la cual las empresas y la economía se mueve en torno a los productos y servicios ofertados, de acuerdo a la demanda que se tiene de estos bajo la influencia de factores políticos, culturales y económicos, entre otros, que nacen a partir de las necesidades de los clientes, movidos por una sociedad globalizada y virtualizada. 
 
       .col-lg-5(data-aos="fade-left") 
         img(src='@/assets/curso/images/tema1/img_1.png')
@@ -299,7 +299,7 @@
           figure
             img.mb-3(src='@/assets/curso/images/tema1/img_10.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 El segmento al que se apunta debe tener la capacidad de responder de manera económica a las inversiones que se realicen en él, en cuanto a estrategias de marketing y demás costes, para su correcto funcionamiento y sostenimiento de las empresas en el sector apuntado.
+          p.mb-0 El segmento al que se apunta debe tener la capacidad de responder de manera económica a las inversiones que se realicen en él, en cuanto a estrategias de <i> Marketing </i> y demás costes, para su correcto funcionamiento y sostenimiento de las empresas en el sector apuntado.
         
       .row(titulo="Accesible").p-4
         .col-md-6
@@ -340,7 +340,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-1 Como parte de su aprendizaje autónomo le invito a revisar el documento denominado Marketing, versión para Latinoamérica, el cual se encuentra en los materiales complementarios.
+                  p.mb-1 Como parte de su aprendizaje autónomo le invito a revisar el documento denominado <i> Marketing </i>, versión para Latinoamérica, el cual se encuentra en los materiales complementarios.
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                     span Descargar
@@ -380,7 +380,7 @@
     .row.align-items-center.justify-content-center
       .col-lg-6(data-aos="fade-left")
           p.mb-3 Si la empresa es competente, puede competir dentro de los rangos de precios que la economía ha dispuesto, porque:
-            ul.lista-ul--color
+            ul.lista-ul--color.mt-3
               li.mb-4
                 i.fas.fa-paper-plane.colr_2
                 | Conoce las nuevas tendencias tecnológicas y de accesibilidad.

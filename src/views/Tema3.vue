@@ -13,7 +13,7 @@
       .col-lg-6(data-aos="fade-right") 
         p.mb-3 Las empresas mayoristas se enfrentan actualmente a gran cantidad de retos que las obliga a cambiar y evolucionar constantemente, cada vez, el mundo globalizado impone nuevos desafíos y nuevos estándares a los que las organizaciones deben responder de forma rápida, oportuna y eficiente.
 
-        p.mb-0 Dos de las características más representativas de las grandes organizaciones que han logrado posicionarse en el mundo y que han podido sobrevivir y mantenerse en el tiempo son la evolución constante y la adaptabilidad a los cambios del entorno. 
+        p.mb-0 Dos de las <b> características </b> más representativas de las grandes organizaciones que han logrado posicionarse en el mundo y que han podido sobrevivir y mantenerse en el tiempo son la <b> evolución constante y la adaptabilidad a los cambios del entorno. </b>
     
 
     .row.justify-content-center.align-items-center.mb-5
@@ -75,7 +75,7 @@
       .col-lg-6(data-aos="fade-right") 
         p.mb-3 El conjunto de estos datos y la relación entre ellos se constituyen información sumamente valiosa, es con base en esta información que se puede conocer el pasado, el presente y el futuro hacia el cual quiere conducirse la empresa.
 
-        p.mb-3 Pero, no es solo el hecho de tener los datos lo que guía el curso de la organización, de nada sirven los datos si no se realiza un procesamiento que los convierta en información que pueda ser analizada efectivamente por los directivos de las empresas, y que, como se mencionaba al principio, los lleve a tomar las decisiones adecuadas en el momento oportuno, ya que para que las decisiones sean las correctas, es necesario que estén basadas en información exacta, precisa y útil.
+        p.mb-3 Pero, no es solo el hecho de tener los datos lo que guía el curso de la organización, de nada sirven los datos si no se realiza un procesamiento que los convierta en información que pueda ser analizada efectivamente por los directivos de las empresas, y que, como se mencionaba al principio, los lleve a tomar las decisiones adecuadas en el momento oportuno, ya que para que las decisiones sean las correctas, es necesario que estén basadas en <b> información exacta, precisa y útil. </b>
 
         p.mb-3 Por ello, las herramientas de análisis y procesamiento de datos han ido evolucionando también, y en la actualidad se encuentran cada vez más de ellas que permiten no solo el procesamiento de datos y la obtención de información, sino que posibilitan también reducir la subjetividad de las decisiones además de tener una visión completa de la organización con el fin de que todos los datos recopilados no se queden en simples números o palabras, sino que sean de utilidad para la empresa.
 
@@ -113,7 +113,7 @@
             .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Entrando en materia, el procesamiento de datos, consiste en un conjunto de operaciones que se ejecuta sobre cualquier tipo de datos para información relevante, confiable y precisa que permita una mejor toma de decisiones y que genere un aumento en la productividad y en las ganancias.
+                  p.mb-0 Entrando en materia, el procesamiento de datos, consiste en un conjunto de operaciones que se ejecuta sobre cualquier tipo de datos para <b> información relevante, confiable y precisa </b> que permita una mejor toma de decisiones y que genere un aumento en la productividad y en las ganancias.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
@@ -267,7 +267,7 @@
           .col-lg-7
             p.mb-3 Este proceso se caracteriza por el uso de herramientas electrónicas, como computadoras para el procesamiento de los datos. Aquí la acción humana es mínima, ya que solo se requiere el ingreso de los datos y el computador realiza las operaciones de forma automática y arroja los resultados instantáneamente y con un margen muy pequeño de errores.
 
-            p.mb-3 Como ejemplo tenemos la evolución del mismo establecimiento de comercio que realiza facturación electrónica, donde se lleva el control y se realizan las operaciones automáticamente por medio de un software contable.
+            p.mb-3 Como ejemplo tenemos la evolución del mismo establecimiento de comercio que realiza facturación electrónica, donde se lleva el control y se realizan las operaciones automáticamente por medio de un <i> software contable.</i>
 
     Separador
 
@@ -278,7 +278,7 @@
       .col-lg-6(data-aos="fade-right") 
         p.mb-3 Mediante el procesamiento de datos se obtiene información valiosa, que al ser analizada permite optimizar los procesos de toma de decisiones en los establecimientos. Es necesario que la información y los resultados obtenidos sean organizados y estructurados como informes o reportes, que den cuenta del proceso realizado y de los resultados obtenidos. 
 
-        p.mb-3 La finalidad de los reportes es que la información obtenida pueda ser accesible, compartida y útil para todas las personas de la empresa, de modo que sirva como punto de partida para determinar el rumbo, las decisiones o estrategias a seguir. Para esto, es necesario que sean claros, concisos, fáciles de entender; pero sobre todo útiles y precisos.
+        p.mb-3 La finalidad de los reportes es que la información obtenida pueda ser accesible, compartida y útil para todas las personas de la empresa, de modo que sirva como punto de partida para determinar el rumbo, las decisiones o estrategias a seguir. Para esto, es necesario que sean <b> claros, concisos, fáciles de entender;</b> pero sobre todo útiles y precisos.
 
         p.mb-0 Para realizar un reporte es necesario que se incluyan las siguientes partes:. 
 
@@ -357,7 +357,6 @@
     #t_3_3.titulo-segundo
       .h2 3.3. Fichero
 
-    p.mb-5 Una vez el vendedor esté vinculado con una empresa comercializadora de juegos de suerte y azar se requiere estar atento a las recomendaciones y estrategias sugeridas por la red de apuestas; no obstante, el vendedor como individuo debe convertirse en un emprendedor de su punto de venta y para concretar su estrategia se recomienda tener elementos clave definidos más adelante.
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -464,6 +463,7 @@
               i.fas.fa-paper-plane.colr_2
               | Se presentó incompatibilidad entre formatos de ficheros, entre otros problemas.
 
+    p.mb-3 Por lo anterior, para dar respuesta a esta gran cantidad de inconvenientes, se evolucionó y se crearon las bases de datos, con el fin de brindar una solución óptima y adecuada al manejo y procesamiento de datos.
  
     Separador
 
@@ -495,7 +495,7 @@
       .col-lg-4(data-aos="fade-left") 
         img.mb-3(src='@/assets/curso/images/tema3/img_24.png')
       .col-lg-6(data-aos="fade-right") 
-        p.mb-3 Cuando se mencionan las bases de datos, estas son conjuntos de datos relacionados, en los que se compilan la información de una empresa, con el propósito de acceder a esta de forma completa y organizada, permitiendo así, la constante alimentación de información de interés de la organización. Estas se diseñan en relación a los requerimientos o necesidades de cada tipo de empresa y sector al cual pertenecen; además, se tienen en cuenta aspectos, tales como:    
+        p.mb-3 Cuando se mencionan las <b> bases de datos, estas son conjuntos de datos relacionados,</b> en los que se compilan la información de una empresa, con el propósito de acceder a esta de forma completa y organizada, permitiendo así, la constante alimentación de información de interés de la organización. Estas se diseñan en relación a los requerimientos o necesidades de cada tipo de empresa y sector al cual pertenecen; además, se tienen en cuenta aspectos, tales como:    
         ul.lista-ul--color.mt-3(data-aos="zoom-out-left")
           li.mb-4
             i.fas.fa-paper-plane.colr_2
@@ -526,15 +526,13 @@
 
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema3/ico_15.svg", style="width: 350px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema3/ico_15_1.svg", style="width: 350px").m-auto
 
     p.mb-3 Las bases de datos relacionales se basan en el concepto de relación o tabla. Es decir, la información se organizará y se almacenará en forma de tablas que contendrán los datos relacionados con un tema y solo con ese tema (por ejemplo, tabla de clientes o de proveedores, etc.). Las tablas están formadas por filas y columnas, de forma que cada una de las filas se corresponderá con un registro de información sobre un elemento de esa tabla y cada columna con una característica a almacenar sobre dichos elementos.
 
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema3/ico_16.svg", style="width: 360px").m-auto
-
-    p.mb-3 Una correcta base de datos debe estar diseñada de manera que la información contenida dentro de ella esté organizada, fácil de entender y de acceder, es por ello la necesidad de conocerla y entenderla; a continuación, se mencionan los conceptos básicos para su estructuración y correcta elaboración:
+        img.mt-3(src="@/assets/curso/images/tema3/ico_16_1.svg", style="width: 360px").m-auto
 
     p.mb-5 Una correcta base de datos debe estar diseñada de manera que la información contenida dentro de ella esté organizada, fácil de entender y de acceder, es por ello la necesidad de conocerla y entenderla; a continuación, se mencionan los conceptos básicos para su estructuración y correcta elaboración:
 

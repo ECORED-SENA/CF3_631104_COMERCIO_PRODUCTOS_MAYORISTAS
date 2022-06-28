@@ -52,7 +52,7 @@
             .col-lg-11
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Considerando lo anterior, es posible plantear problemas e interrogantes acerca de los preceptos mercantiles y los métodos o modos utilizados por el mercado y el marketing que permiten el correcto enfoque metodológico. Al tratarse de un tema de mercadeo se busca simplemente hacer un acercamiento a las problemáticas planteadas.
+                  p.mb-0 Considerando lo anterior, es posible plantear problemas e interrogantes acerca de los preceptos mercantiles y los métodos o modos utilizados por el mercado y el  <i> Marketing </i> que permiten el correcto enfoque metodológico. Al tratarse de un tema de mercadeo se busca simplemente hacer un acercamiento a las problemáticas planteadas.
 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -80,7 +80,7 @@
     
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_2.svg", style="width: 350px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_2_1.svg", style="width: 350px").m-auto
 
     .row.align-items-center.justify-content-center.mb-3
       .col-lg-5(data-aos="fade-left") 
@@ -94,7 +94,7 @@
      
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_3.svg", style="width: 300px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_3_1.svg", style="width: 300px").m-auto
 
 
     .row.align-items-center.justify-content-center.mb-3
@@ -109,7 +109,7 @@
       
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_4.svg", style="width: 300px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_4_1.svg", style="width: 300px").m-auto
 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -147,12 +147,12 @@
   .container.bg-white.px-md-5.px-3.py-2.container-top.fondo.mb-0.cs
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12(data-aos="zoom-in-down")
-        img(src='@/assets/curso/images/tema2/info.png')
+        img(src='@/assets/curso/images/tema2/info_1.png')
   .container.bg-white.p-md-5.p-4.container-bottom.mt-0.cs.mb-3
 
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_5.svg", style="width: 350px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_5_1.svg", style="width: 350px").m-auto
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
@@ -240,7 +240,7 @@
 
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_10.svg", style="width: 350px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_10_1.svg", style="width: 350px").m-auto
 
 
     p.mb-5 Es la encargada de almacenar y gestionar información que permite conectar entre sí a las diferentes organizaciones con sus potenciales clientes. En términos generales, es un conjunto de datos que estructurados de tal manera permiten en un determinado contexto crear vínculos de información. Actualmente existen infinidad de programas o sistemas de gestión de bases de datos que permiten almacenar y consultar información de manera rápida y precisa.
@@ -304,11 +304,11 @@
 
     .row.align-items-center.mb-5
       .col-lg-2(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema2/ico_14.svg", style="width: 210px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema2/ico_14_1.svg", style="width: 210px").m-auto
 
     .row.align-items-center.justify-content-center.mb-3
       .col-lg-6(data-aos="fade-right") 
-        p.mb-3 La prospección en el proceso de la venta no solo identifica, ubica y localiza clientes en función de lo que la empresa necesita o las características del producto, es decir no todo cliente del mercado es cliente potencial para la empresa, para serlo tiene que reunir una serie de características, tales como: tener la necesidad, capacidad y autoridad de compra.
+        p.mb-3 La prospección en el proceso de la venta no solo identifica, ubica y localiza clientes en función de lo que la empresa necesita o las características del producto, es decir no todo cliente del mercado es cliente potencial para la empresa, para serlo tiene que reunir una serie de características, tales como: <b> tener la necesidad, capacidad y autoridad de compra. </b>
 
         p.mb-3 Por lo que esta información puede proceder de cualquier fuente o persona, por lo tanto, se debe registrar para posteriormente ser verificada debidamente con el fin de gestionarla en el momento oportuno (Barrera, 2014). Partiendo de lo anterior, es vital tener una lista de clientes futuros, evaluar el potencial de cada uno ellos y fijar prioridades para los que resulten más interesantes e incluirlos como prioritarios para hacerles seguimiento continuo.
 
@@ -316,11 +316,11 @@
         img(src='@/assets/curso/images/tema2/img_12.png')
 
     .row.align-items-center.mb-5
-      .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema2/ico_15.svg", style="width: 310px").m-auto
+      .col-lg-3(data-aos="zoom-in-down")
+        img.mt-3(src="@/assets/curso/images/tema2/ico_15_1.svg", style="width: 310px").m-auto
 
 
-    p.mb-3 Las empresas mayoristas emplean diferentes fuentes de información para desarrollar un sistema de búsqueda adecuado para cada situación en relación a la venta y de acuerdo al sector al cual pertenece. Para conocer más del tema puede consultar el libro Estrategias y técnicas de comunicación: una visión integrada en el marketing de Rodríguez (2011, pp. 98-99), quien menciona algunas fuentes de información que van desde:
+    p.mb-3 Las empresas mayoristas emplean diferentes fuentes de información para desarrollar un sistema de búsqueda adecuado para cada situación en relación a la venta y de acuerdo al sector al cual pertenece. Para conocer más del tema puede consultar el libro Estrategias y técnicas de comunicación: una visión integrada en el  <i> Marketing </i> de Rodríguez (2011, pp. 98-99), quien menciona algunas fuentes de información que van desde:
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-left") 
@@ -355,7 +355,7 @@
             .row.px-2.py-2.justify-content-center
               .col-lg-6
                 h3 <i>Software</i>
-                p.mb-3 Escoger un software que se adapte a las necesidades de la empresa y sector al cual pertenecen, hace parte primordial del proceso de prospectar un cliente de aquí parte el manejo y el análisis de datos que la empresa utilizara para esta tarea.
+                p.mb-3 Escoger un <i> software </i> que se adapte a las necesidades de la empresa y sector al cual pertenecen, hace parte primordial del proceso de prospectar un cliente de aquí parte el manejo y el análisis de datos que la empresa utilizara para esta tarea.
               .col-lg-4.mb-3
                 img.mt-4(src="@/assets/curso/images/tema2/img_14.svg")
               
@@ -364,7 +364,7 @@
             .row.px-2.py-2.justify-content-center
               .col-lg-6
                 h3 CRM
-                p.mb-3 Utiliza técnicas de CRM (Customer Relationship Management que en español significa gestión de la relación con el cliente).
+                p.mb-3 Utiliza técnicas de CRM (<i> Customer Relationship Management </i> que en español significa gestión de la relación con el cliente).
                 p.mb-3 Esta herramienta permite tener más cercanía y afinidad con los clientes, dado que maneja la información, centraliza las bases de datos, logra empatía y cercanía con el sector al cual pertenece cada compañía, además de facilitar la medición de los canales comerciales que cada empresa tiene implementados en su estructura de ventas.
 
               .col-lg-4.mb-3
@@ -382,7 +382,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-3(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema2/ico_16.svg", style="width: 310px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema2/ico_16_1.svg", style="width: 310px").m-auto
 
 
     .row.align-items-center.justify-content-center.mb-3
@@ -413,11 +413,11 @@
 
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema2/ico_17.svg", style="width: 310px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema2/ico_17_1.svg", style="width: 310px").m-auto
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right") 
-        p.mb-3   La prospección persona a persona es una de las actividades más comunes que llevan a cabo los vendedores, ya sea cuando prospectan por medio del cambio o bien cuando se encuentran en algún punto de venta. El saber abordar al cliente e interesarse en el sistema a través de una presentación efectiva, es fundamental para concertar alguna cita o incluso para cerrar un contrato.
+        p.mb-3   La prospección persona a persona es una de las actividades más comunes que llevan a cabo los vendedores, ya sea cuando prospectan por medio del cambio o bien cuando se encuentran en algún punto de venta. El saber abordar al cliente e interesarse en el sistema a través de una <i> presentación efectiva </i>, es fundamental para concertar alguna cita o incluso para cerrar un contrato.
 
         p.mb-3 Una entrevista de presentación siempre empieza de manera similar a un embudo, donde primero se tiene que destinar la mayor parte del tiempo a obtener información del cliente; en segundo lugar, se deben orientar los esfuerzos en amoldar las ventajas y beneficios del producto con las necesidades del cliente para que en el fondo del embudo se logren los acuerdos y compromisos, lo que comúnmente se conoce como cierre.
       .col-lg-5(data-aos="fade-left") 
@@ -430,7 +430,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-1.text <b> Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado Estrategia de marketing, el cual encuentra en el material complementario.</b>
+                  p.mb-1.text <b> Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado Estrategia de  <i> Marketing </i>, el cual encuentra en el material complementario.</b>
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                     span Descargar
@@ -443,7 +443,7 @@
     #t_2_2.titulo-segundo
       .h2 2.2. Servicio al cliente
     
-    p.mb-3 El servicio al cliente es una herramienta de marketing, que se encarga de establecer puntos de contacto con los clientes a través de diferentes canales, para establecer relaciones con ellos, antes, durante y después de la venta.
+    p.mb-3 El servicio al cliente es una herramienta de  <i> Marketing </i>, que se encarga de establecer puntos de contacto con los clientes a través de diferentes canales, para establecer relaciones con ellos, antes, durante y después de la venta.
 
     p.mb-5 Entre sus principales objetivos, se encuentran: 
 
@@ -480,7 +480,7 @@
     
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema2/ico_21.svg", style="width: 310px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema2/ico_21_1.svg", style="width: 310px").m-auto
 
 
     .row.align-items-center.justify-content-center.mb-3
@@ -513,7 +513,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema2/ico_22.svg", style="width: 380px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema2/ico_22_1.svg", style="width: 400px").m-auto
 
 
     .row.aling.mb-3  
@@ -525,7 +525,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 La razón de ser de una empresa parte desde la actividad comercial a la cual se dedican, vender un producto u ofrecer un servicio, pero, ¿son lo mismo?, no, la principal diferencia es algo que se puede percibir a partir de lo que se ve, se toca, se escucha o incluso se huele.
 
-    p.mb-3 En este sentido, los productos pueden ser entendidos como aquellos que marcan la diferencia entre lo tangible y lo intangible, en la medida en que los productos son los enseres que se le brinda al consumidor. No obstante, los servicios deben valerse de determinados elementos tangibles para transmitir sensaciones e ideas antes de la compra y hacer que el cliente se sienta a gusto y cómodo al consumir ese servicio.
+    p.mb-3 En este sentido, los <b> productos </b> pueden ser entendidos como aquellos que marcan la diferencia entre lo <b> tangible y lo intangible </b>, en la medida en que los productos son los enseres que se le brinda al consumidor. No obstante, los <b> servicios </b> deben valerse de determinados <b> elementos tangibles para transmitir sensaciones e ideas </b> antes de la compra y hacer que el cliente se sienta a gusto y cómodo al consumir ese servicio.
 
     p.mb-3 Cuando se habla de diferencias, la más notable parte es lo tangible e intangible. Un producto que existe físicamente se puede tocar. La principal diferencia entre un producto tangible y un servicio intangible radica en el momento de la venta. Mientras que el producto ya está listo (tangible), el servicio solamente se percibe tras haberlo recibido (intangible).
     

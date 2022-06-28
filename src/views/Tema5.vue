@@ -12,7 +12,7 @@
       .col-lg-6(data-aos="fade-right") 
         p.mb-3 Hablando del entorno económico mundial y de la necesidad de adaptarse a los cambios que exigen los mercados actuales que nacen a partir del entorno multicultural que existe hoy en día y que hacen vital generar planes o estrategias donde la flexibilidad y la rapidez sean los factores que hacen la diferencia entre el éxito y el fracaso de las compañías, se hace imperativo entonces realizar reestructuraciones empresariales que direccionen a la innovación y a la transformación digital para ser competentes en el presente siglo. 
 
-        p.mb-3 Es aquí donde aparece una necesidad vital de las empresas y es la creación de un plan de trabajo, viéndose como el norte que dirige y encamina la consecución de objetivos para el desarrollo y crecimiento de los sectores económicos de un país.
+        p.mb-3 Es aquí donde aparece una necesidad vital de las empresas y es la creación de un plan de trabajo, viéndose como <b> el norte que dirige y encamina la consecución de objetivos para el desarrollo y crecimiento de los sectores económicos de un país.</b>
 
         p.mb-3 Por esto no solamente se habla de lineamientos, el plan de trabajo incorpora, los siguientes elementos:
         .row.align-items-center.justify-content-center.mb-5
@@ -43,17 +43,19 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-0 El plan es una guía y también es el medio por el cual quedan establecidas las estrategias y las metas que la compañía se ha planteado en un periodo determinado, de esta manera, contiene toda la información necesaria para el cumplimiento de los objetivos propuestos por la junta directiva.
+    
     .row.aling.my-5   
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-5.col-sm-2.px-3.mb-3.mb-md-0
               img(src="@/assets/curso/images/tema2/ico_1.svg")
-            .col-lg-11
+            .col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-1 Para recordar:
                   p.mb-0 El plan de trabajo es un planificador que posee cualidades y características dinámicas que se pueden transformar a la medida de la evolución del tiempo, teniendo en cuenta el contexto social del momento, espacial y temporal.
+    
 
     p.mb-3 Una parte fundamental a la hora de generar un plan de trabajo es la contextualización social, económica, política y cultural debido a que ayuda a definir una problemática para cambiarla y mejorar como empresa, así aclara los objetivos de las empresas, ayuda a medir los procesos, de los proyectos, también permite anticiparse a las futuras contingencias dado que identifica los problemas a tiempo y permite la toma de decisiones más fácil, clara y eficiente.
 
@@ -65,13 +67,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/images/tema5/img_2.png')})`}"
           )
           .bloque-texto-g__texto.p-5.m-right(data-aos="fade-left")
-            p.mb-0 En marketing es fundamental un plan de trabajo, por lo que es esencial que cualquier empresa trabaje en uno, de esa forma los objetivos como compañía son medibles y evaluables. De igual forma, si se habla de empresas mayoristas, estos planes son su base para el crecimiento y cumplimiento de requerimientos a los cuales van encaminados.
+            p.mb-0 En <i> marketing </i> es fundamental un plan de trabajo, por lo que es esencial que cualquier empresa trabaje en uno, de esa forma los objetivos como compañía son medibles y evaluables. De igual forma, si se habla de empresas mayoristas, estos planes son su base para el crecimiento y cumplimiento de requerimientos a los cuales van encaminados.
 
     .bloque-texto-a.color-custom-7.p-md-0.mb-5.d-block.d-lg-none
       .row.m-4.align-items-center.justify-content-between
         .col-lg-9(data-aos="fade-right")
           .bloque-texto-a__texto.p-5.my-5
-            p En marketing es fundamental un plan de trabajo, por lo que es esencial que cualquier empresa trabaje en uno, de esa forma los objetivos como compañía son medibles y evaluables. De igual forma, si se habla de empresas mayoristas, estos planes son su base para el crecimiento y cumplimiento de requerimientos a los cuales van encaminados.
+            p En <i> marketing </i> es fundamental un plan de trabajo, por lo que es esencial que cualquier empresa trabaje en uno, de esa forma los objetivos como compañía son medibles y evaluables. De igual forma, si se habla de empresas mayoristas, estos planes son su base para el crecimiento y cumplimiento de requerimientos a los cuales van encaminados.
         .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
           figure
             img(src='@/assets/curso/images/tema5/img_2.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;")
@@ -152,7 +154,7 @@
 
           .row
             .col-md-7.mb-4.mb-md-0
-              h3 Crear de un plan de marketing
+              h3 Crear de un plan de <i> marketing </i>
               p Este debe generar confianza y cercanía para que el plan de trabajo tenga garantías y se acerque al éxito, que sería medible en cuanto al cumplimiento de los objetivos.
             .col-md-5
               figure
