@@ -80,7 +80,7 @@
     
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_2_1.svg", style="width: 350px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_2_1.svg", style="width: 370px").m-auto
 
     .row.align-items-center.justify-content-center.mb-3
       .col-lg-5(data-aos="fade-left") 
@@ -94,7 +94,7 @@
      
     .row.align-items-center.justify-content-star.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-5(src="@/assets/curso/images/tema2/ico_3_1.svg", style="width: 300px").m-auto
+        img.mt-5(src="@/assets/curso/images/tema2/ico_3_1.svg", style="width: 320px").m-auto
 
 
     .row.align-items-center.justify-content-center.mb-3

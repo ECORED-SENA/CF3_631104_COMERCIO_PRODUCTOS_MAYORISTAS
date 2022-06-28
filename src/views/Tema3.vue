@@ -350,7 +350,7 @@
                 i.fas.fa-paper-plane.colr_2
                 | Para la optimización de procesos, entre otros.
             
-            p.mb-3 Sin este tipo de reportes sería imposible visualizar las compañías desde su rendimiento, funcionamiento y cumplimiento de responsabilidades.
+            p.mb-0 Sin este tipo de reportes sería imposible visualizar las compañías desde su rendimiento, funcionamiento y cumplimiento de responsabilidades.
 
     Separador
 
@@ -478,13 +478,13 @@
         :style="{'background-image': `url(${require('@/assets/curso/images/tema3/img_23.png')})`}"
         )
           .bloque-texto-g__texto.p-5(data-aos="fade-right")
-            p.mb-3 Las empresas mayoristas tienen una necesidad y es la recolección de la información para no andar a ciegas frente al sector de mercado al cual pertenecen; por lo tanto, cuando procesan los datos obtenidos para responder la demanda de su mercado, además de una constante actualización, deben de aplicar diversas técnicas de procesamiento, de acuerdo a su sector, tecnología y recursos que posea. Estas técnicas son las siguientes:
+            p.mb-3 El entorno económico y el mercado cambiante al cual están sometidas las empresas que se dedican al comercio de productos mayoristas es demasiado volátil y cambiante, esto conlleva a que constantemente estén actualizándose y absorbiendo grandes cantidades de información que deben procesar para estar a las vanguardia y ser competitivas en su sector a nivel nacional e internacional.
 
         .bloque-texto-a.color-custom-7.p-md-0.mb-5.d-block.d-lg-none
           .row.m-4.align-items-center.justify-content-between
             .col-lg-9(data-aos="fade-right")
               .bloque-texto-a__texto.p-5.my-5
-                p Las empresas mayoristas tienen una necesidad y es la recolección de la información para no andar a ciegas frente al sector de mercado al cual pertenecen; por lo tanto, cuando procesan los datos obtenidos para responder la demanda de su mercado, además de una constante actualización, deben de aplicar diversas técnicas de procesamiento, de acuerdo a su sector, tecnología y recursos que posea. Estas técnicas son las siguientes:
+                p El entorno económico y el mercado cambiante al cual están sometidas las empresas que se dedican al comercio de productos mayoristas es demasiado volátil y cambiante, esto conlleva a que constantemente estén actualizándose y absorbiendo grandes cantidades de información que deben procesar para estar a las vanguardia y ser competitivas en su sector a nivel nacional e internacional.
             .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/images/tema3/img_23.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
@@ -526,7 +526,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-down")
-        img.mt-3(src="@/assets/curso/images/tema3/ico_15_1.svg", style="width: 350px").m-auto
+        img.mt-3(src="@/assets/curso/images/tema3/ico_15_1.svg", style="width: 360px").m-auto
 
     p.mb-3 Las bases de datos relacionales se basan en el concepto de relación o tabla. Es decir, la información se organizará y se almacenará en forma de tablas que contendrán los datos relacionados con un tema y solo con ese tema (por ejemplo, tabla de clientes o de proveedores, etc.). Las tablas están formadas por filas y columnas, de forma que cada una de las filas se corresponderá con un registro de información sobre un elemento de esa tabla y cada columna con una característica a almacenar sobre dichos elementos.
 

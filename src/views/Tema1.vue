@@ -342,7 +342,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-1 Como parte de su aprendizaje autónomo le invito a revisar el documento denominado <i> Marketing </i>, versión para Latinoamérica, el cual se encuentra en los materiales complementarios.
                 .col-md-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/Marketing.pdf')" target="_blank")
                     span Descargar
                     .row
                       .col-auto
