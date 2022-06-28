@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Didact Gothic" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Didact Gothic" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Didact Gothic" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad did&amp;#225;ctica" />
+              <option name="title_text" value="CF3 - 631104 Comercio de productos mayoristas" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -70,7 +70,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Open Sans" />
+              <option name="font" value="Didact Gothic" />
             </options>
           </option>
           <option name="settings" value="false" />
@@ -1135,22 +1135,6 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
-      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
-      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
-      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
-      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
-      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
-      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
-      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
-      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
-      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
-      <string id="modern_video_captions_label">~caþţ~iøñš</string>
-      <string id="modern_video_captions_off">~øff</string>
-      <string id="modern_video_captions_on">~øñ</string>
-      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
-      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
-      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
-      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="enable_keyboardshortcuts">Activar atajos del teclado</string>
@@ -1280,9 +1264,9 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="Didact Gothic">
       <files>
-        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
         <file bold="false" italic="false" />
       </files>
     </font>
@@ -1294,14 +1278,16 @@
         <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5pMSQdNTnb5" displaytext="Las cuatro variables de la mezcla de mercadeo son:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6BIAeuD9GSS" displaytext="La técnica de ventas que consiste en mostrar las características, beneficios y ventajas de un producto se conoce como:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5Ynin258C9v" displaytext="El tipo de venta que representa menores costos para la empresa es:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6QBkat364Kj" displaytext="Las ventas en las cuales la relación comercial se orienta en la venta al consumidor final se denominan:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6bpIQdzf4fW" displaytext="El ciclo de la venta representa en orden secuencial los siguientes momentos:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6CqyeX2T6yT" displaytext="En una empresa, el proceso responsable de generar las estrategias para la venta del producto se conoce como:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.65ggmPgHdtH" displaytext="Las ventas en las cuales la relación comercial se orienta en la venta a otras empresas se denominan:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6iqqssNGjFt" displaytext="El tipo de discapacidad donde las personas tienen dificultad para realizar algún esfuerzo físico se conoce como:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6SVzdn0sZsC" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5gG79znnKej" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6gaOPeXKk29" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5eMpVVhChfC" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5lgU8lBuSBB" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.64NBHuWuwj3" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5lZEeLMrmUt" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.63WA0vUjrQV" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5lQSODGdIVQ" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.65hj0uwenBI" displaytext="Verdadero/Falso" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
