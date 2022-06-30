@@ -26,7 +26,7 @@
                 img(src='@/assets/curso/images/tema4/img_1.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
 
 
-    p.mb-3 Llevando esto a la vida común, son las zonas donde se encuentran artículos, productos y empresas, de la misma categoría o similares en un misma área, la central de abastos de cualquier ciudad sería un gran ejemplo, los almacenes y locales que se ven en esta área son muy afines, venta de verduras, frutas, insumos agrícolas, insumos pecuarios, cárnicos y almacenes de granos, entre otros, por lo que muy difícilmente se encontrará un consorcio de abogados, un contador, un odontólogo o empresas de finanzas.
+    p.mb-3 Llevando esto a la vida común, son las zonas donde se encuentran artículos, productos y empresas, de la misma categoría o similares en una misma área, la central de abastos de cualquier ciudad sería un gran ejemplo, los almacenes y locales que se ven en esta área son muy afines, venta de verduras, frutas, insumos agrícolas, insumos pecuarios, cárnicos y almacenes de granos, entre otros, por lo que muy difícilmente se encontrará un consorcio de abogados, un contador, un odontólogo o empresas de finanzas.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-left") 
@@ -470,7 +470,7 @@ export default {
       {
         titulo: 'Mercado',
         texto:
-          'La segmentación es el papel más importante acá, geográficamente (país, región, municipio) y demográficamente (ingresos, edad, género)..',
+          'La segmentación es el papel más importante acá, geográficamente (país, región, municipio) y demográficamente (ingresos, edad, género).',
         imagen: require('@/assets/curso/images/tema4/slyder_5.png'),
       },
       {

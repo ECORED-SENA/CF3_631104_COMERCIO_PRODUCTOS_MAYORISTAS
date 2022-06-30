@@ -319,7 +319,7 @@
     
   
 
-    p.mb-5 Aquí es calve mencionar que cada empresa maneja sus propios formatos para realizar un reporte con información requerida por ellas; aun así, se tiene una estructura básica cumpliendo con las partes solicitadas, las cuales se pueden apreciar como en la figura a continuación:
+    p.mb-5 Aquí es clave mencionar que cada empresa maneja sus propios formatos para realizar un reporte con información requerida por ellas; aun así, se tiene una estructura básica cumpliendo con las partes solicitadas, las cuales se pueden apreciar como en la figura a continuación:
   
 
     .row.justify-content-center.p-5
@@ -478,13 +478,13 @@
         :style="{'background-image': `url(${require('@/assets/curso/images/tema3/img_23.png')})`}"
         )
           .bloque-texto-g__texto.p-5(data-aos="fade-right")
-            p.mb-3 El entorno económico y el mercado cambiante al cual están sometidas las empresas que se dedican al comercio de productos mayoristas es demasiado volátil y cambiante, esto conlleva a que constantemente estén actualizándose y absorbiendo grandes cantidades de información que deben procesar para estar a las vanguardia y ser competitivas en su sector a nivel nacional e internacional.
+            p.mb-3 El entorno económico y el mercado cambiante al cual están sometidas las empresas que se dedican al comercio de productos mayoristas es demasiado volátil y cambiante, esto conlleva a que constantemente estén actualizándose y absorbiendo grandes cantidades de información que deben procesar para estar a la vanguardia y ser competitivas en su sector a nivel nacional e internacional.
 
         .bloque-texto-a.color-custom-7.p-md-0.mb-5.d-block.d-lg-none
           .row.m-4.align-items-center.justify-content-between
             .col-lg-9(data-aos="fade-right")
               .bloque-texto-a__texto.p-5.my-5
-                p El entorno económico y el mercado cambiante al cual están sometidas las empresas que se dedican al comercio de productos mayoristas es demasiado volátil y cambiante, esto conlleva a que constantemente estén actualizándose y absorbiendo grandes cantidades de información que deben procesar para estar a las vanguardia y ser competitivas en su sector a nivel nacional e internacional.
+                p El entorno económico y el mercado cambiante al cual están sometidas las empresas que se dedican al comercio de productos mayoristas es demasiado volátil y cambiante, esto conlleva a que constantemente estén actualizándose y absorbiendo grandes cantidades de información que deben procesar para estar a la vanguardia y ser competitivas en su sector a nivel nacional e internacional.
             .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/images/tema3/img_23.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3

@@ -171,7 +171,7 @@
             .row.px-2.py-2.justify-content-center.align-items-star
               .col-lg-6
                 h3 Productos accesibles
-                p.mb-3 Los clientes tienen una necesidad de que los productos y/o servicios estén dentro de su rango de presupuesto. Por lo general, <b> los precios bajos atraen a todos los tipos de clientes </b>, aunque una buena relación calidad-precio es esencial… si se compite con empresas que ofrecen productos similares, el precio es uno de los factores más importantes en la decisión de compra de un bien y/o servicio (Silva, 2021, p. 2).
+                p.mb-3 Los clientes tienen una necesidad de que los productos y/o servicios estén dentro de su rango de presupuesto. Por lo general, <b> los precios bajos atraen a todos los tipos de clientes</b>, aunque una buena relación calidad-precio es esencial… si se compite con empresas que ofrecen productos similares, el precio es uno de los factores más importantes en la decisión de compra de un bien y/o servicio (Silva, 2021, p. 2).
               .col-lg-6.mb-3
                 img(src="@/assets/curso/images/tema2/img_9.png")
               
@@ -364,7 +364,7 @@
             .row.px-2.py-2.justify-content-center
               .col-lg-6
                 h3 CRM
-                p.mb-3 Utiliza técnicas de CRM (<i> Customer Relationship Management </i> que en español significa gestión de la relación con el cliente).
+                p.mb-3 Utiliza técnicas de CRM (<i>Customer Relationship Management </i> que en español significa gestión de la relación con el cliente).
                 p.mb-3 Esta herramienta permite tener más cercanía y afinidad con los clientes, dado que maneja la información, centraliza las bases de datos, logra empatía y cercanía con el sector al cual pertenece cada compañía, además de facilitar la medición de los canales comerciales que cada empresa tiene implementados en su estructura de ventas.
 
               .col-lg-4.mb-3
@@ -430,9 +430,9 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-1.text <b> Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado Estrategia de  <i> Marketing </i>, el cual encuentra en el material complementario.</b>
+                  p.mb-1.text <b> Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado Estrategia de  <i>Marketing</i>, el cual encuentra en el material complementario.</b>
                 .col-md-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/Estrategia de Marketing.pdf')" target="_blank")
                     span Descargar
                     .row
                       .col-auto
@@ -505,7 +505,7 @@
               span 3
             | Llamada telefónica.
          
-    p.mb-3 Sin embargo, hoy en día, se anexa un nuevo mundo, el virtual, por lo tanto, los tipos de servicios deben variar de acuerdo a la estrategia seguida por la empresa. Vale la pena mencionar que, de acuerdo con el sector y estructura de las empresas, pueden desarrollarse en conjunto las estrategias de acuerdo con los tipos de servicio ofrecidos por las mismas; en este orden de ideas, se puede describir de la siguiente manera los tipos de servicio que prestan las empresas, de acuerdo a su estrategia; a continuación se presenta un un video de ello:
+    p.mb-3 Sin embargo, hoy en día, se anexa un nuevo mundo, el virtual, por lo tanto, los tipos de servicios deben variar de acuerdo a la estrategia seguida por la empresa. Vale la pena mencionar que, de acuerdo con el sector y estructura de las empresas, pueden desarrollarse en conjunto las estrategias de acuerdo con los tipos de servicio ofrecidos por las mismas; en este orden de ideas, se puede describir de la siguiente manera los tipos de servicio que prestan las empresas, de acuerdo a su estrategia; a continuación se presenta un video de ello:
 
     figure.mb-5
       .video
@@ -525,7 +525,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 La razón de ser de una empresa parte desde la actividad comercial a la cual se dedican, vender un producto u ofrecer un servicio, pero, ¿son lo mismo?, no, la principal diferencia es algo que se puede percibir a partir de lo que se ve, se toca, se escucha o incluso se huele.
 
-    p.mb-3 En este sentido, los <b> productos </b> pueden ser entendidos como aquellos que marcan la diferencia entre lo <b> tangible y lo intangible </b>, en la medida en que los productos son los enseres que se le brinda al consumidor. No obstante, los <b> servicios </b> deben valerse de determinados <b> elementos tangibles para transmitir sensaciones e ideas </b> antes de la compra y hacer que el cliente se sienta a gusto y cómodo al consumir ese servicio.
+    p.mb-3 En este sentido, los <b> productos </b> pueden ser entendidos como aquellos que marcan la diferencia entre lo <b> tangible y lo intangible</b>, en la medida en que los productos son los enseres que se le brinda al consumidor. No obstante, los <b> servicios </b> deben valerse de determinados <b> elementos tangibles para transmitir sensaciones e ideas </b> antes de la compra y hacer que el cliente se sienta a gusto y cómodo al consumir ese servicio.
 
     p.mb-3 Cuando se habla de diferencias, la más notable parte es lo tangible e intangible. Un producto que existe físicamente se puede tocar. La principal diferencia entre un producto tangible y un servicio intangible radica en el momento de la venta. Mientras que el producto ya está listo (tangible), el servicio solamente se percibe tras haberlo recibido (intangible).
     
