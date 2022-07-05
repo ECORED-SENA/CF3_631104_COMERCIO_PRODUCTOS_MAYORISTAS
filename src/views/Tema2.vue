@@ -443,7 +443,7 @@
     #t_2_2.titulo-segundo
       .h2 2.2. Servicio al cliente
     
-    p.mb-3 El servicio al cliente es una herramienta de  <i> Marketing </i>, que se encarga de establecer puntos de contacto con los clientes a través de diferentes canales, para establecer relaciones con ellos, antes, durante y después de la venta.
+    p.mb-3 El servicio al cliente es una herramienta de  <i> Marketing</i>, que se encarga de establecer puntos de contacto con los clientes a través de diferentes canales, para establecer relaciones con ellos, antes, durante y después de la venta.
 
     p.mb-5 Entre sus principales objetivos, se encuentran: 
 
